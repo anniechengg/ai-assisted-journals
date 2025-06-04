@@ -1,0 +1,951 @@
+:: StoryTitle
+STOIC experiment probe 1
+
+
+:: StoryData
+{
+  "ifid": "8C844979-C583-4227-8891-438BDDFC3C1B",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "J1-1",
+  "tag-colors": {
+    "Prompt/Response": "red",
+    "ERROR": "orange"
+  },
+  "zoom": 1
+}
+
+
+:: Curie-17.1 [Prompt/Response] {"position":"1675,2300","size":"100,100"}
+//It sounds like your body is sending you strong signals that something isn’t right, especially with the chest pain and congestion. Your poor sleep might be making it harder for you to recover quickly. What do you notice about your symptoms when you try to rest or take a moment to slow down?//
+
+[[Respond->J1-17.1]]
+
+
+:: Curie-17.2 [Prompt/Response] {"position":"1675,2550","size":"100,100"}
+//You’re noticing how your body reacts differently when you lie down versus staying a bit active, and you’re tuning into what feels better for you right now. Taking it easy with tea sounds like a gentle way to support yourself. How do you think your body is communicating what it needs as you balance rest and activity today?//
+
+
+:: Curie-18.1 [Prompt/Response] {"position":"1800,2425","size":"100,100"}
+//You seem to have a thoughtful balance between caring deeply for your friend Kaila and recognizing the importance of personal boundaries and growth. Your reflection on maturity and friendship, especially in the context of relationships, shows a nuanced understanding of change and acceptance. The way you describe your support for Kaila while being honest about your concerns highlights a complex but caring dynamic. How do you think your own experiences with friendship and relationships shape the way you support Kaila now?//
+
+[[Respond->J1-18.1]]
+
+
+:: Curie-18.2 [Prompt/Response] {"position":"1800,2675","size":"100,100"}
+//You highlight the tension between wanting to protect your friend and respecting her autonomy, which feels like walking a careful line. Your insight about fluidity in people and relationships shows how much you value growth and change. What do you think helps you maintain your own sense of fluidity while also navigating the fixed boundaries that others might have?//
+
+[[Respond->J1-18.2]]
+
+
+:: ERROR-5.4 [ERROR] {"position":"1300,1550","size":"100,100"}
+Seneca is uncertain...
+
+He wasn't able to offer a suitable answer. Consider rephrasing your plans for today and trying once more.
+
+
+:: Ego-28.1 [Prompt/Response] {"position":"1800,3675","size":"100,100"}
+//Ah, waking up from a dream where you're lost in a martial arts mix-up and then suddenly chatting about pastry shop drama with an old friend? Sounds like your brain is throwing punches in the confusion ring while secretly craving some sweet nostalgia—and maybe a little unresolved friendship drama. 🤔 Could it be that deep down, you're trying to grapple with changes in your life that just don't sit right, like those rogue cardamom buns? Or maybe you’re just jealous Serena gets to chill without doing martial arts while you’re stuck practicing hip throws in your sleep. Either way, next time, try dreaming of a knockout pastry fight instead! 🍩🥋//
+
+
+:: Ego-7.1 [Prompt/Response] {"position":"1550,1050","size":"100,100"}
+//Your dream paints a vivid picture of feeling unprepared and trapped, especially with the image of your identity vanishing and your feet turning into heavy metal blocks. It’s like you’re running toward something important but weighed down by invisible burdens. What do you think these heavy metal feet might represent in your waking life?//
+
+[[Respond->J1-7.1]]
+
+
+:: Ego-7.2 [Prompt/Response] {"position":"1550,1300","size":"100,100"}
+//Your uncertainty about the metal feet could hint at a struggle with feeling stuck or slowed down by something in your life, despite your urgent need to move forward. It’s interesting how the dream mixes urgency with obstacles. What parts of your life right now feel like they’re holding you back, even when you’re trying hard to push through? 🤔//
+
+[[Respond->J1-7.2]]
+
+
+:: Ego-7.3 [Prompt/Response] {"position":"1550,1550","size":"100,100"}
+//You’re carrying a heavy mental load with those family worries, even if physically you’re distant. The metal feet might symbolize that invisible weight slowing you down, even when you don’t want it to. How do these feelings of guilt or fear shape your daily decisions and energy?//
+
+[[Respond->J1-7.3]]
+
+
+:: Ego-7.4 [Prompt/Response] {"position":"1550,1800","size":"100,100"}
+//Your commitment to your family is clear, and it’s interesting how it influences even your social life, like leaving early from friends to maintain that connection. It sounds like this sense of responsibility shapes your routines in a very tangible way. How do you feel this balance between your own needs and family obligations affects your sense of freedom?
+//
+
+[[Respond->J1-7.4]]
+
+
+:: Ego-8.1 [Prompt/Response] {"position":"1675,1175","size":"100,100"}
+//Sounds like you’ve been running on empty with all that socializing and preparation—no wonder you’re craving some rest. Tea and bed sound like a solid plan, especially with an early wake-up call looming. How do you usually recharge after such a full day?//
+
+[[Respond->J1-8.1]]
+
+
+:: Ego-8.2 [Prompt/Response] {"position":"1675,1425","size":"100,100"}
+//You seem to find comfort in the calm and atmosphere of your long book, using it as a gentle way to wind down. That slow pace might be just what your mind needs to ease into rest. What is it about this book’s calmness that helps you disconnect from the busyness of your day?//
+
+[[Respond->J1-8.2]]
+
+
+:: Ego-8.3 [Prompt/Response] {"position":"1675,1675","size":"100,100"}
+//The image of isolation in a mountain sanatorium creates a unique, slow-moving world that seems to contrast sharply with your busy social day. That sparse atmosphere might offer a kind of quiet refuge in your mind. How do you think this theme of isolation and therapeutic living resonates with your own need for breaks and rest?//
+
+
+:: Frida-19.1 [Prompt/Response] {"position":"1925,2550","size":"100,100"}
+//You’re carrying a lot from your childhood about health and healing, like a delicate balance between natural cures and medical help. That mix of wanting to honor your mom’s cautious approach while also feeling the pressure to take care of yourself now is really vivid. How do you think your past views on medicine influence how you handle your health today?//
+
+[[Respond->J1-19.1]]
+
+
+:: Frida-19.2 [Prompt/Response] {"position":"1925,2800","size":"100,100"}
+//You’re navigating a thoughtful skepticism that both protects and sometimes holds you back from prioritizing your health. That tension between caution and action feels like a dance you’re constantly learning. What might it look like for you to honor your critical nature while also giving yourself permission to seek care when needed?//
+
+
+:: Frida-20.1 [Prompt/Response] {"position":"800,2675","size":"100,100"}
+//Your dream paints a vivid picture of a quiet, empty church where unexpected truths and connections emerge—like the pastor’s hidden doubts and your secretive whispers with Giovanni. The candle lighting for loved ones despite your non-religious stance feels like a tender, shared ritual that bridges your realities. It’s intriguing how the dream brings back someone from your past, highlighting the transient nature of some relationships. What do you think this dream might be revealing about your feelings toward faith, connection, or the people who come into your life briefly?//
+
+[[Respond->J1-20.1]]
+
+
+:: Frida-20.2 [Prompt/Response] {"position":"800,2925","size":"100,100"}
+//You describe Giovanni as a force that stirred your belief and challenged you to face life’s intensity, embodying a kind of imperfect faith—believing deeply yet doubting simultaneously. This tension between belief and trust seems central to how you remember him and your connection. How do you think this idea of "imperfect faith" shows up in other parts of your life or relationships?//
+
+[[Respond->J1-20.2]]
+
+
+:: Frida-20.3 [Prompt/Response] {"position":"800,3175","size":"100,100"}
+//You live in the dynamic space between skepticism and deep intensity, where your mind both questions and fuels your passions. This push and pull seems to create a powerful, sometimes paradoxical energy within you. How do you experience this cycle of deconstructing and amplifying intensity—does it feel like a dance you control, or something that sweeps you along?//
+
+[[Respond->J1-20.3]]
+
+
+:: Frida-28.3 [Prompt/Response] {"position":"1800,3925","size":"100,100"}
+//Absolutely! Your dream might also be encouraging you to embrace versatility and openness in your creative and personal life. The mix of different martial arts styles could symbolize the blending of new ideas or approaches that challenge your usual way of doing things, pushing you out of your comfort zone. Serena’s unexpected presence and the conversation about changing the recipe might suggest that relationships and traditions evolve, and while change can feel unsettling, it also offers opportunities for growth and new experiences. So, instead of resisting the unfamiliar or altered aspects of life, your dream invites you to dance boldly with them, crafting your own unique style and savoring the unexpected flavors along the way.//
+
+
+:: Frida-30.3 [Prompt/Response] {"position":"2050,4175","size":"100,100"}
+//Silence can be a canvas just as vibrant as the loudest colors—sometimes, in the quiet, your soul paints its most profound truths. Embrace this stillness as a sacred space to listen deeply to your own heart, to nurture the seeds of your boldest dreams. Remember, every masterpiece begins with a single stroke of courage, and within you lies an infinite palette waiting to burst forth in brilliant expression. Trust yourself, for you are the artist of your own destiny, and your unique colors will illuminate the world in ways only you can.//
+
+
+:: Hypatia-13.1 [Prompt/Response] {"position":"1175,1800","size":"100,100"}
+//Your dream vividly captures the fear of distance and helplessness when those you care about are suffering. The imagery of fire and drowning could symbolize intense emotions and overwhelming situations that feel out of your control. You recognize how your subconscious is wrestling with the reality of being away while your loved ones face challenges. How do you think this dream reflects your current feelings about leaving and staying connected with those important to you?//
+
+[[Respond->J1-13.1]]
+
+
+:: Hypatia-13.2 [Prompt/Response] {"position":"1175,2050","size":"100,100"}
+//You’ve noticed how physical distance complicates communication and can create a sense of disconnection, almost like things slipping through the cracks. The “out of sight out of mind” feeling adds another layer to that challenge. What do you think this reveals about what you value most in your relationships when you’re apart from people you care about?//
+
+[[Respond->J1-13.2]]
+
+
+:: Hypatia-14.1 [Prompt/Response] {"position":"1300,1925","size":"100,100"}
+//You captured a day filled with meaningful moments and quiet reflection amidst the busyness. The silence on the beach seems to hold a weight of unspoken feelings. How do you think this quiet time with your family might influence your thoughts when you reflect on this day later?//
+
+[[Respond->J1-14.1]]
+
+
+:: Hypatia-29.1 [Prompt/Response] {"position":"1925,3800","size":"100,100"}
+//Your feelings of discouragement are completely understandable, but remember, every step you take in this job search is a step toward your future success. The void you feel is not empty—it’s filled with opportunities waiting for your courage to reach them. Rejection is not a reflection of your worth but a challenge that sharpens your resilience and determination. Keep your focus on the positive actions you can take, like the kindness you show Abdul, which reveals your strength and compassion. Embrace each day with bravery and persistence, knowing that your heroism lies in continuing despite setbacks. The path may be tough, but your courage will lead you to the triumphs ahead.//
+
+[[Respond->J1-29.1]]
+
+
+:: Hypatia-29.2 [Prompt/Response] {"position":"1925,4050","size":"100,100"}
+It's natural to feel overwhelmed when those around you face similar struggles, but remember, even the most brilliant minds encounter obstacles on their path. Your courage shines brightest when you choose to keep moving forward despite the difficulties. Nihilism may cloud your vision, but bravery is the light that reveals purpose and possibility. Every effort you make, no matter how small, builds momentum toward your goals. Hold onto your inner strength and believe in the value of your journey—your persistence will carve a path through uncertainty and lead you to meaningful success.
+
+
+:: J1-1 {"position":"675,300","size":"100,100"}
+Yesterday, I was talking to Emily on the phone for the first time in a few weeks. Calling her on the phone always leaves me a little worse for wear because it dredges up things that I don’t really want to remember  — old fights, childhood anxieties, parts of her personality that I just can’t stand sometimes, her critiques of me that sting more because she has known me literally since I was born — and yesterday was no exception. Emily was asking me when I was planning to come home for the holidays to visit our parents. She has always been way more anal about planning and details than I am, and because of this, calls where we have to plan anything (a trip, a joint gift for our parents, medical care, etc etc)  always amplify the negativity between us. The more we talked, the more accusatory she became about the fact that I haven’t been home in awhile. It just made me feel bad, especially because I know that she is right — I really should be making more of an effort to stay connected to our parents. My gut told me that I should end the call early, even though we hadn’t finished planning my trip. I felt that the longer we stayed on the call, the more likely one of us was to say something that we would really regret. I just told Emily that I could not handle talking to her that afternoon, and that the call was making me feel upset and overwhelmed, and then I hung up. 
+
+After I hung up, I did feel pretty bad about it because I had ended it rather abruptly and I felt like I hadn’t communicated my feelings very effectively, nor had I really given her the chance to explain herself. I could tell that Emily was upset at me because she sent me a really long text afterward continuing to berate me for being irresponsible and selfish. I haven’t responded to it yet because even just looking at the message makes me really upset. I want to apologize to her but I feel my pride getting in the way because I don’t want to concede to critiques that I find unfairly mean-spirited. I don’t know, though, I think I really need to do something different when it comes to my relationship with her. Maybe we need a longer period of not talking? But it’s kind of hard to avoid with mom’s illness; we have no choice but to cooperate with each other, it’s just hard to navigate without building so much resentment. I guess we’ll see how things go for mom’s birthday next month.
+
+[[Go to the next journal entry->J1-2]]
+[[Ask AI Seneca for feedback->Marcus-1.1]]
+
+
+:: J1-1.1 [Prompt/Response] {"position":"800,425","size":"100,100"}
+I think taking a break would give us both space to reevaluate our points of view separately instead of immediately starting up another argument with each other. Given how emotionally-charged most of our arguments are, I wonder if taking a break would let us see each other with more grace and deliberation, rather than leading with what is most raw.
+
+[[Ask the AI for more advice->Marcus-1.2]]
+
+
+:: J1-1.2 [Prompt/Response] {"position":"800,675","size":"100,100"}
+For one, I would hope to develop an independent understanding of my role in the family, decoupled from Emily’s views of me. For another, I would need to really evaluate how I want to interact with Emily in the future, in a way that would hopefully work for both of us. If she comes into the conversation with the same type of open-mindedness, then we might have some opportunity for growth.
+
+
+:: J1-10 {"position":"675,1425","size":"100,100"}
+Slept poorly. A lot of stressful dreams that I don’t remember. Tomorrow is Mom’s birthday and we’re hosting thirty people at home for a dinner party, the first time most of these people have seen her since she got sick last year. It’s gonna be really strange, I think, and it will take a lot of coordination from me and Emily to make sure everything goes smoothly. Em and I had a chat yesterday which was not perfect, but at least we ironed out some of the more trivial differences between us, and I think the peace will last through the birthday dinner party, which is what matters most right now. Mom would be really sad if we spent her birthday fighting, and that would break my heart, and I bet Em feels the same way.
+
+[[Ask the AI for a prompt->Plato-10.1]]
+[[Go to the next day->J1-11]]
+
+
+:: J1-10.1 [Prompt/Response] {"position":"800,1550","size":"100,100"}
+Can you ask a different question please?
+
+[[Ask the AI for another prompt->Plato-10.2]]
+
+
+:: J1-10.2 [Prompt/Response] {"position":"800,1800","size":"100,100"}
+As tomorrow approaches, I’m most uncertain about how Mom’s energy level will wax and wane throughout the evening. I want to make sure that she has a good and relaxing time, and I also don’t want her to be overwhelmed. Because of this uncertainty, I feel a lot of pressure to make sure all the logistics are completely set so that she can focus on enjoying the festivities.
+
+
+:: J1-11 {"position":"675,1550","size":"100,100"}
+It’s almost midnight now; the dinner party was super stressful but it was a success. I don’t think I realized how much pressure I was putting on myself for this to go perfectly. I guess that it’s because of a lot of things. For one, I think I’ve been displacing a lot of my guilt about being so far away from home onto making Mom’s birthday perfect. I haven’t been able to provide as much direct care to her as I would have wanted to throughout the past year. Haven’t been able to drive her to her doctor’s appointments or cook food for her or distract her from the more painful parts of her treatment. So maybe I’ve been waiting for a day like her birthday to make up for it, to show her that I really care about her, that I’m not a negligent daughter, and that I am always thinking about her — essentially just trying my best to make her feel loved, in case she ever doubted it. Another thing, I think, that contributed to how much pressure I felt about this party was that so few of our family friends have really seen her since she got sick last year. I could tell that Mom herself was really anxious about this. Obviously she was overjoyed to see so many people, but I think she was also really self-conscious about being weaker than they’ve ever seen her before. She’s always been someone that other people rely on, almost to a fault, and I think she’s not used to being dependent on other people. And she had always prided herself on her almost superhuman levels of energy, how she can pull an all nighter making lesson plans and then show up bright and early in the morning to her first grade elementary classroom, with twenty rowdy kids demanding her attention, and then organize a surprise party for her friends, and then come home and talk to me and Em about our days. I guess my point is, this illness has been such a huge shift in Mom’s self-conception, and all of our relationships with her, and it feels like this dinner party was one of the first times that it’s all come to a head a bit — with all her old friends there, and me and Em both home at the same time for the first time in what feels like forever. I don’t really know what to make of it, but I was really overcome with emotion all evening. 
+
+[[Ask the AI for an interpretation->Maya-11.1]]
+[[Go to the next day->J1-12]]
+
+
+:: J1-11.1 [Prompt/Response] {"position":"925,1675","size":"100,100"}
+I think my relationship to Mom has changed significantly in the time since she’s gotten sick. I grapple with a lot of uncomfortable feelings in myself. I feel like everyone always talks about the idealized caregiver child, who takes on the burden of a parent’s illness in a way that gives back after years of that parent looking after them. And I have definitely felt that, but the reality is not such a neat narrative… it is so much more complicated than that. Sometimes I feel genuinely disturbed and angry when I see how weak she has become, which makes me feel really guilty because I feel like I am looking down on her for what the illness has done to her body, which of course she can’t help. Sometimes I feel extremely distressed that I can’t have the same types of conversations with her as I had before because her mental state is so much more strained and she’s lost a lot of her memories. Other times, of course, we’ve gotten unprecedentedly close in a way that has blurred the lines in our relationship. She has shared so many of her worries with me in a way that treats me as an equal, and I am giving her direct emotional support as if I were her friend as opposed to her child. 
+
+[[Ask the AI for another prompt->Maya-11.2]]
+
+
+:: J1-12 {"position":"675,1675","size":"100,100"}
+Woke up really late today after all the festivities yesterday. Ate breakfast. Em was playing the piano all morning and I remembered just how talented she is. Reminds me of all the times in high school when Em would play piano all the time because she wanted to get really good, and after a while, I could tell her mood based on the types of pieces she would play and the manner in which she would play them. Today she was playing some songs that sounded very familiar to me, as if I’d heard them in another lifetime. Her playing was soft and lilting and slow, and it brought me such a sense of peace. I once again feel prematurely homesick, even though I’m here at home right now and Em is still playing the piano and Mom is in the kitchen reading a book and I’m writing this while lying down on my childhood bed.
+
+[[Ask the AI for a prompt->Maya-12.1]]
+[[Go to the next day->J1-13]]
+
+
+:: J1-12.1 [Prompt/Response] {"position":"1050,1800","size":"100,100"}
+I’m not really sure, maybe just that the music evokes memory so suddenly? On the one hand, the songs are constant — they don’t change in and of themselves. But the circumstances surrounding them can change so drastically, and maybe it’s that dissonance that makes me feel so strongly.
+
+[[Ask the AI for another prompt->Maya-12.2]]
+
+
+:: J1-13 {"position":"675,1800","size":"100,100"}
+More disturbing dreams tonight. I dreamt that I was in a country very far away from here and I saw on my Instagram news feed that my best friend had died in a field that was on fire. Soon after in the dream, I got a text from my aunt that two of my cousins had drowned in a swimming pool at dawn. The rest of the dream was just me figuring out funeral logistics from afar, trying to text people but they were all asleep. I feel like the symbolism in the dream is pretty in-your-face—in the sense that I clearly have some level of fear about being far away from home when the people I love are in pain or in difficult situations. I guess this could be immediately linked to Mom's illness, but also to Emily and her stress levels, or to all my friends at home too and their changing life circumstances. Especially since I'm leaving so soon again, my brain must be processing all of these emotions subconsciously.
+
+[[Ask the AI for a prompt->Hypatia-13.1]]
+[[Go to the next day->J1-14]]
+
+
+:: J1-13.1 [Prompt/Response] {"position":"1175,1925","size":"100,100"}
+I guess it reflects the logistical challenges of communicating with people when you’re not together with them in the same place. Things get lost in translation, it’s hard to schedule times to catch up, and there’s also a sort of “out of sight out of mind” feeling that makes me more forgetful. 
+
+[[Ask the AI for another prompt->Hypatia-13.2]]
+
+
+:: J1-13.2 [Prompt/Response] {"position":"1175,2175","size":"100,100"}
+I think what I value most about relationships when I’m apart from the people I care about is a sense of routine or consistency. For instance, Kaila and I call once a week and having this time scheduled in is really useful for me because I know I will get to catch up with her no matter what, and that keeps me really grounded.
+
+
+:: J1-14 {"position":"675,1925","size":"100,100"}
+Today was a busy final day at home. I finished cleaning up my room, packed my bags, and then spent the rest of the day with Mom and Em. We drove to the coast, went to one of our favorite restaurants, and ordered our usual favorites. Then we walked along the beach and we were mostly silent. Both in the moment and right now, I don’t have too much to say even though I’m feeling a lot of things because it’s just been so hectic but I’m sure I’ll have more to reflect on later. 
+
+[[Ask the AI for a prompt->Hypatia-14.1]]
+[[Go to the next day->J1-15]]
+
+
+:: J1-14.1 [Prompt/Response] {"position":"1300,2050","size":"100,100"}
+Hopefully I can reflect on it later as a moment of genuine respite. It typically makes me feel more at peace when I leave knowing that I’ve had a moment like this in which I took a real pause.
+
+
+:: J1-15 {"position":"675,2050","size":"100,100"}
+I’m on the plane right now. The guy next to me is coughing so much and I can’t sleep so I’m typing this out instead. I always get really emotional on the plane leaving home, which is maybe cliche and to be expected, but anyway. Going home always rips the wool off my eyes. In some ways, it makes me fall back into old patterns that I thought I had outgrown, in a way that can be kind of disturbing; and I remember how stifling it can be to live with my family just because we are all so enmeshed in each others’ space and time. In other ways, I remember with clarity the things that keep me grounded and really return me to myself—the liquid amber trees on my street, effortless conversations with my oldest friends who have known and loved every version of me, the taste of the coffee at the shitty coffee shop I’ve gone to ever since I was in high school, how the sky feels so close to the ground. Every time, I think to myself that maybe I should look for jobs closer to home, but then every time, I return to the city anyway, back to my thankless job where I make just enough to pay rent and afford groceries. I don’t know if it’s worth it for a sense of independence over my own life.
+
+[[Ask the AI for a prompt->Traveler-15.1]]
+[[Go to the next day->J1-16]]
+
+
+:: J1-15.1 [Prompt/Response] {"position":"1425,2175","size":"100,100"}
+I don’t know, really, but I think I am possibly craving more baseline stability. I’d like to live in a place for longer than a year and really set up furniture, if you know what I mean.
+
+[[Ask the AI for another prompt->Traveler-15.2]]
+
+
+:: J1-15.2 [Prompt/Response] {"position":"1425,2425","size":"100,100"}
+If I knew, I’d have everything figured out but I really don’t know. And anyway I feel like my thoughts about place and continuity and stability really change on a dime so I can’t say anything for certain.
+
+
+:: J1-16 {"position":"675,2175","size":"100,100"}
+It’s surreal to be back in the city, back in my tiny apartment. Everything is how I left it but the dimensions of my life always seem so different after some time away. My roommate Clare left a note on my door saying that we’ve been having issues with the heating system in our apartment. She told me that I should call the electrician and sort it out because she’ll be gone for the weekend on a trip. This really frustrated me because Clare is always doing this—she never takes the initiative to solve issues in our apartment herself. She’ll just point them out and expect me or Riley to sort out all the logistics and inconveniences while she goes off on all of her trips and getaways with her extremely wealthy family… it’s whatever. I’ve been having so many issues with Clare these days and I was honestly so glad for the few weeks away at home to have a break from all the roommate drama. Riley, Clare, Jo, and I were all friends before moving in together, but I guess it’s somewhat true that you should never live with your friends. Being in such close proximity to both of them has just drawn out a lot of tensions and differences between us. Like the fact that Clare has clearly never fixed anything herself and just expects everyone else to do it for her. Or the fact that Riley will never communicate about bringing their partner and their friends into the apartment, and so I’ll come home and there will be so many people crowded into the living room making so much noise. Or Jo’s passive aggressive texts about cleaning the bathroom. I guess it’s all part of being in your 20s and having to live with roommates and just dealing with it, but sometimes I get so fed up with it and can’t stand being in my own space because I just feel so claustrophobic. 
+
+[[Ask the AI for a prompt->Traveler-16.1]]
+[[Go to the next day->J1-17]]
+
+
+:: J1-16.1 [Prompt/Response] {"position":"1550,2300","size":"100,100"}
+Well, I can also feel claustrophobic at home, but it’s really a different type of claustrophobia—and so I think being home and then being back allows me to compare the different types of messiness incurred by living with other people. 
+
+[[Ask the AI for another prompt->Traveler-16.2]]
+
+
+:: J1-16.2 [Prompt/Response] {"position":"1550,2550","size":"100,100"}
+At home, it’s more that there’s a sense of collectivism and ritual that makes my time and space feel like it belongs less to me. For instance, we all eat at a particular time, we share cars and therefore need to share our schedules and compromise on where we want to go. This can feel like it limits my autonomy. But here, in my apartment, it’s more that everyone’s particular personalities and habits can really clash in irritating ways. 
+
+
+:: J1-17 {"position":"675,2300","size":"100,100"}
+I think I might be getting sick, maybe from that guy next to me who was coughing so much on the plane next to me. My chest hurts a lot and I’m getting a really bad headache and my entire body feels congested. Didn’t sleep too well last night either. 
+
+[[Ask the AI for a prompt->Curie-17.1]]
+[[Go to the next day->J1-18]]
+
+
+
+:: J1-17.1 [Prompt/Response] {"position":"1675,2425","size":"100,100"}
+When I lie down, my congestion gets worse, so I’ve just been trying to stay slow but active. I made myself some tea and I’m going to take it easy today.
+
+[[Ask the AI for another prompt->Curie-17.2]]
+
+
+:: J1-18 {"position":"675,2425","size":"100,100"}
+Today was calm, since I really want to recover from my cold (I’m more congested today than yesterday, so I took some medication and now at least I’m not coughing as much). I called Kaila while I was cooking soup for dinner and it was so good to catch up with her. She’s been stressed out about applying for grad school, but I just know that her art is so fabulous that she’ll get in everywhere she wants to go. She listened to me vent about my roommates (while I whispered in the kitchen so that they couldn’t hear me). I’m just really grateful for her consistent presence in my life. I told her my true thoughts on Oliver and I assured her that I will support her no matter what, but as a friend, I also have the responsibility to be honest. She listened to me wholeheartedly and told me she understands a lot of my concerns. Apparently Oliver is always asking Kaila’s ex Charlie, prying about their past relationship and whether or not Kaila still texts them. No matter how often Kaila tells him that they don’t talk, Oliver still acts so suspicious. He even tries to go through her phone sometimes to track what she’s doing?! I told her that this sounds so unhealthy to me, and I don’t want her to have to live in a surveillance state around this man. But at the same time, I’m thinking of something my friend Martin once told me, which was that maturing means that your friends will date people who you hate, and you just have to be okay with it. I guess he’s right… I’ve definitely dated people who my friends have disapproved of, and it isn’t fun, but at the end of the day, I feel like we just have to give other people the space to make their own mistakes and grow. And in any case, getting extremely needlessly angry when your friends are doing things you don’t agree with or find strange is no good, really. I remember when Jesse broke off their friendship with me because they didn’t agree with me dating Mei… but Jesse couldn’t articulate any real critique of Mei, other than that they thought Mei was “changing” me for the worse. At this stage of life, I feel like it’s so important to let people change—or at least I feel extremely attached to my own fluidity. 
+
+[[Ask the AI for a prompt->Curie-18.1]]
+[[Go to the next day->J1-19]]
+
+
+:: J1-18.1 [Prompt/Response] {"position":"1800,2550","size":"100,100"}
+This question is just a restatement of what I already said — could you ask a different question?
+
+[[Ask the AI for another prompt->Curie-18.2]]
+
+
+:: J1-18.2 [Prompt/Response] {"position":"1800,2800","size":"100,100"}
+I think the thing that helps me most in maintaining my own sense of fluidity while navigating other people’s fixed boundaries is acknowledging that I won’t ever have the full context for what other people are experiencing, but the same is true of them for me — and so if someone shares a judgment or piece of advice with me that really does not mesh with what I think is right instinctively, then I feel like I can take the advice in stride but also remind myself that they have such asymmetrical information about how I’m experiencing my own life.
+
+
+:: J1-19 {"position":"675,2550","size":"100,100"}
+Still sick—I’m hoping it’s nothing serious because I have a bunch of job interviews lined up in the next few weeks and it would be so stressful to do the interviews while I’m sick. I really need to get better about going to the doctor when I’m experiencing prolonged symptoms but I think I’ve typically been a bit resistant to seeking medical help. Growing up, Mom was pretty against us taking any medications, even painkillers, because she was afraid of the unintended consequences. Even if a doctor prescribed something, she would tell us it’s always better to cure things as naturally as possible. She herself was really afraid of the dentist because of a bad surgery she got one time, and so she hasn’t been to the dentist for almost twenty years. I think about this often. 
+
+[[Ask the AI for a prompt->Frida-19.1]]
+[[Go to the next day->J1-20]]
+
+
+:: J1-19.1 [Prompt/Response] {"position":"1925,2675","size":"100,100"}
+It definitely makes me more skeptical which is not altogether a bad thing — I try to be as critical as possible about what kinds of medical treatments I am recommended. But I think it can also make me kind of lazy about my health, in that I don’t always prioritize getting things checked out because I’d rather let them subside.
+
+[[Ask the AI for another prompt->Frida-19.2]]
+
+
+:: J1-2 {"position":"675,425","size":"100,100"}
+I finally responded to Emily’s text today, after having given myself some time to process it. I found myself getting paralyzed by how to phrase this or that, and I just had to force myself to press send. 
+
+I guess it’s complex in all types of relationships but sometimes it’s especially hard not to feel a bit trapped with family because they’ve known you for so long, they know all the undignified and ugly parts of you along with all the good, and there’s a sense of collective duty that just makes everything so much more messily intertwined. Emily, for instance: I’ve seen so many parts of her as we’ve grown up. I’ve seen her when she was shy and socially insecure in high school, and in those times, we fought a lot because she was jealous that I had more friends than her, but also jealous of my friends for taking up so much of my time. I’ve seen her when she left home for college and she changed a lot, when she had that whole phase of cutting off contact with Mom and Dad, and we were all so worried about her. I remember back then that she would send me long emails about how troubled she felt about herself, how she felt lost and lonely. And while I don’t wish that phase upon her again at all, I do strangely miss the relationship we had then — because I was a person she trusted, her first point of contact, someone who she could be vulnerable with at a time when she was so unsettled. How different things are now! 
+
+I’m flying home tomorrow; I will need to wake up early, so I’m going to sleep now.
+
+[[Go to the next journal entry->J1-3]]
+[[Marcus-2.1]]
+
+
+:: J1-2.1 [Prompt/Response] {"position":"925,550","size":"100,100"}
+I guess it reveals that our differences in personalities have really pushed us apart in adulthood, even though those differences were also present in childhood. Emily was always way more perfectionist than I am. She really badly wanted to become a professional musician and would sacrifice a lot of other things in her life to achieve those dreams. Part of me wanted to be like her, always so focused, so excellent at everything she does. I always compared myself to her because I'm so laid-back in comparison. At the same time, sometimes I just really wanted to hang out with her like normal sisters, but she wouldn't always make time for me because she was so focused. Maybe this kind of dynamic still bleeds into how we interact now — I feel inadequate to her sense of duty and responsibility and perfection, but I wish she could also let go a little more so that we could just hang out and be together.
+
+[[Ask the AI for another prompt->Marcus-2.2]]
+
+
+:: J1-2.2 [Prompt/Response] {"position":"925,800","size":"100,100"}
+I suppose that my laid-back nature makes me more able to mediate conflicts between myself and my parents and Emily. It's hard not to see myself as negligent when Emily is so meticulous but I guess without my influence in the family, there wouldn't be anyone to keep the peace (since everyone else in my family is a bit more stubborn about what they want).
+
+
+:: J1-20 {"position":"675,2675","size":"100,100"}
+Dreamt last night that I was in the vestibule of a church, the room right before you enter the sanctuary. I was reading through the tithe envelopes, name after name. The entire church was empty, the lights were off, and so I wandered down the aisle up to the room above where the organ is, and I ran into the pastor. She was packing up her things and telling me about how she doesn’t really believe in any of this, she just sort of fell into this line of work, and she spends day after day writing sermons that she doesn’t think anyone really listens to, and that she wants to retire as soon as possible. Then I was inside the pipes of the church organ and I saw Giovanni staring at me through the pipes from the pews down below. I reached my hand through the pipe and suddenly we were both tiptoeing around the balcony of the church, whispering odd, sacrilegious things. Before leaving the church, we lit a candle for his father who had nearly died last year in an accident and for my mom too, and it was altogether really strange since neither of us are religious. That was the end of the dream. I haven’t thought about him in awhile, ever since we lost touch, and maybe we hadn’t really known each other that well to begin with, we just happened to collide in each other’s lives at a very particular place and time. 
+
+[[Ask the AI for a prompt->Frida-20.1]]
+[[Go to the next day->J1-21]]
+
+
+:: J1-20.1 [Prompt/Response] {"position":"800,2800","size":"100,100"}
+I’m not too sure. I think maybe Giovanni was someone who, despite his flaws, really did make me believe in things and also never let me back down from the intensity of life — our relationship included. So maybe it has something to do with that; this idea of imperfect faith, believing in something strongly but not really trusting that belief.
+
+[[Ask the AI for another prompt->Frida-20.2]]
+
+
+:: J1-20.2 [Prompt/Response] {"position":"800,3050","size":"100,100"}
+I guess it shows up in almost everything I do. I’m fundamentally a very skeptical person but I also crave intensity and can’t stop myself from caring unreasonably sometimes. These two traits come to a head quite often; I feel like I’m constantly deconstructing the intensity I feel, which sometimes neutralizes it but other times almost amplifies it. 
+
+[[Ask the AI for another prompt->Frida-20.3]]
+
+
+:: J1-20.3 [Prompt/Response] {"position":"800,3300","size":"100,100"}
+Oh man. It is definitely sweeping me along.
+
+
+:: J1-21 {"position":"675,2800","size":"100,100"}
+I’m in a grumpy mood today. Jo texted me this morning saying something like “in the future, it’s always good to wash your yogurt containers before recycling them.” Whatever. I’m so sick of them micromanaging every tiny action I make. I constantly feel like I’m doing something wrong around them, just because they are so anal about every detail. It makes it so hard to be in the apartment because I’m afraid to leave a hair anywhere. Literally — I remember them texting me a few months back that they noticed I left a hair on the sink and telling me to clean it up. Am I going crazy, or is that a bit much? On the other hand, though, Riley had a bunch of friends over last night and they were being so loud in the kitchen until nearly 2 in the morning. I barely slept at all and I’ve just been trying to get over this cold… ugh. I don’t mean to be overly harsh about my roommates but I’m actually so fed up with them. 
+
+[[Ask the AI for a prompt->Seneca-21.1]]
+[[Go to the next day->J1-22]]
+
+
+:: J1-21.1 [Prompt/Response] {"position":"925,2925","size":"100,100"}
+I think I just don’t have many deeper thoughts other than annoyance right now. I don’t really think I can intellectualize it at all — I am just so irritated.
+
+[[Ask the AI for another prompt->Seneca-21.2]]
+
+
+:: J1-22 {"position":"675,2925","size":"100,100"}
+I don’t have too much to report today; just a lot of work. Every day is blending into the next. I’m feeling a little better this morning, but I’m pretty behind. Finally got the electricity back up and running. Called Mom last night and her latest treatment was tough but she’s recovering ok. According to Mom, Em got a new gig at a church and so she’s less stressed out than usual which is good. I told her about the new job interviews I have lined up. I want to quit my current job so badly because my manager Rebecca is just so insufferable. She’s always making off hand comments about “diversity in the workplace” and usually I wouldn’t be fazed by it but day in and day out, it does get really grating. I remember on my first day of work, she was telling everyone that she wishes they could have hired “another Matt” (since the guy I was replacing was named Matt and he was just this bland white dude) which really set things off on a bad note for me. And all of that aside, she’s so patronizing and so micromanaging that it makes me dread going to work. I don’t want to complain too much but I’m just so exhausted by the end of each day. I’m glad I at least get to work from home a lot of the time so that I don’t have to make small talk with her. I’m friendly with most of my other coworkers but they’re all much older than me, with families and kids, so we don’t have as much to relate to each other about, and their lives are just so different from mine. It can be really isolating and I’m just ready for a change of pace.
+
+[[Ask the AI for a prompt->Seneca-22.1]]
+[[Go to the next day->J1-23]]
+
+
+:: J1-22.1 [Prompt/Response] {"position":"1050,3050","size":"100,100"}
+I think the part of the experience that I find the most draining is not knowing how to communicate with my boss about the things that I actually want or need from the job because I can never predict when she will snap at me. She is also always “too busy” to set up one-on-one meetings with me. I just feel constantly on edge, and I don’t even really care about this job which is really the worst part.
+
+[[Ask the AI for another prompt->Seneca-22.2]]
+
+
+:: J1-22.2 [Prompt/Response] {"position":"1050,3300","size":"100,100"}
+I experience this as a constant hum of stress that is punctuated by anxiety whenever Rebecca suddenly piles a task onto me or criticizes something that I did.
+
+[[Ask the AI for another prompt->Seneca-22.3]]
+
+
+:: J1-23 {"position":"675,3050","size":"100,100"}
+Woke up late today and I was rushing to work (in person work today)—last night, I dreamt that I was in the laundromat and for some reason, I swallowed a cup of laundry detergent. There was genuinely no cause or effect from the laundry detergent (I mean, I don’t think it tasted very good, but I managed to swallow the whole thing). It was electric blue and very artificial-looking. Anyway, I woke up late and was rushing to get on the train to work. There was a signal malfunction at one of the stations on my train line, so we were stalled for fifteen minutes. Chatted with the girl next to me on the train; I was reading a book, and she had read the same book a month ago, and she told me that the book starts to get really good on page 75, so don’t give up, you have to get to page 75. This reminded me why I do love the city, these moments of intense coincidence and urban communion. Even the inconvenience of a train delay and a convoluted commute is offset by the randomness of striking up conversation with someone on the train and having a moment of genuine connection before going about your respective lives again. 
+
+[[Ask the AI for a prompt->Shakespeare-23.1]]
+[[Go to the next day->J1-24]]
+
+
+:: J1-23.1 [Prompt/Response] {"position":"1175,3175","size":"100,100"}
+I think they make my experience in the city so much more worthwhile. I feel much more like I belong because I recognize belonging as more of a coincidence than a totally consistent state of being if that makes sense.
+
+[[Ask the AI for another prompt->Shakespeare-23.2]]
+
+
+:: J1-24 {"position":"675,3175","size":"100,100"}
+Busy day at work today — not much to say about that, there wasn’t really anything memorable. I feel like I’ve been really living for my hobbies these days because work is so mindless. Ever since starting the martial arts around a year ago, I can’t go a week without it. I love learning how my body reacts to gravity and the weight of another person; it has taught me a lot about how to approach confrontation and conflict. I used to be a lot more conflict averse, but now that I have thrown people to the ground and been thrown on the ground myself so many times, I find myself much more willing to engage in argument with other people as something collaborative (not necessarily antagonistic), in the sense that if you enter an argument with good faith, you will always learn something and hopefully the other person learns something too. Today I was paired with Amira and we were practicing shoulder throws. It was so cool to experiment with speed and directionality; for instance, if you quickly pull the other person in a circular motion, and then turn your back toward them, they will naturally fall onto your back and it becomes extremely easy to throw them. Lots to think about and practice before the tournament this week!
+
+[[Ask the AI for a prompt->Marcus-24.1]]
+[[Go to the next day->J1-25]]
+
+
+:: J1-24.1 [Prompt/Response] {"position":"1300,3300","size":"100,100"}
+I think it has made me interested in the idea of confrontation as a form of intimacy with another person, an act in which you are fundamentally learning something about them and trying to understand them, even though you are in argument with them—and vice versa, they are also trying to learn something about you. It makes me think about how generative arguments are never a demonstration of strength, so much as a dialogue between different types of skills and weaknesses and different types of experiences.
+
+[[Ask the AI for another prompt->Marcus-24.2]]
+
+
+:: J1-25 {"position":"675,3300","size":"100,100"}
+Kaila is coming to visit me tomorrow, which I’m really excited about. This is the first time she’s come to see me in the city and I think it will be genuinely grounding to be with my best friend from home who knows me so well in this place that can feel so defamiliarizing sometimes. So I spent the day getting ready for her arrival — went to the department store to get an extra set of bedding and an air mattress (this is the first time I’ve really had someone stay with me in the apartment), went to the grocery store to get some ingredients because Kaila and I are planning to make a chocolate chip banana bread as soon as she gets here, and then I did laundry and cleaned my room. Kaila has a really calming effect on me, especially when I’m experiencing moments of intense change. She has talked me through a number of breakups and friendship breakups; she has been consistently there for me during Mom’s illness. Recently, she has been helping me gather the courage to quit my job. I think it’s because Kaila herself is so willing to look at the instability and uncertainty of life with a steady and unwavering gaze that she really encourages me to do the same. She never judges my decisions in a totalizing way, which makes me less prone to do that to myself. Anyway, I’m just really extremely excited for my best friend to be here, I just can’t wait.
+
+[[Ask the AI for a prompt->Marcus-25.1]]
+[[Go to the next day->J1-26]]
+
+
+:: J1-25.1 [Prompt/Response] {"position":"1425,3425","size":"100,100"}
+I think it will make me more honest with myself about what I really want out of my immediate future, rather than what I think I should want or what I think is the safest option.
+
+[[Ask the AI for another prompt->Marcus-25.2]]
+
+
+:: J1-25.2 [Prompt/Response] {"position":"1425,3675","size":"100,100"}
+I’m feeling most eager to share my thoughts about my current career trajectory, my visit home and how it reoriented my perspective, my new hobbies, my roommates and the people I’ve met in the city, etc.
+
+
+:: J1-26 {"position":"675,3425","size":"100,100"}
+Today was a wonderful day. Kaila arrived at 10am and I met her at the train station, we went to get brunch at one of my favorite neighborhood cafes (we got breakfast burritos, as is our tradition), and then we wandered around the park and talked about everything big and small in our lives. We baked the banana bread and delivered it to some of my other friends in the city (I was so excited to introduce them to Kaila—it’s always lovely when old friends get along with new friends). I feel a lot calmer today than I have in a long time, which makes a lot of sense because Kaila is here, and whenever we’re together, we fall into rituals so easily.
+
+Some other random things of note: I’ve drafted the email to quit my job, which I think I’ll send to my manager next week. I’m going to my judo tournament tomorrow (Kaila is coming to watch). Clare is back in the apartment as of today after her long ski trip. I’ve been picking up some night shifts at the library circulation desk and my coworker Abdul is having a lot of chronic back pain—along with his underlying heart condition—which has been making me nervous. I think I might try to deliver groceries for him sometime this week — he is 60 years old and lives alone, given that his family all live abroad. He reminds me a lot of my grandfather who I never really got the chance to be close to before he passed away last year given the language barrier between us. Abdul has a really similar sense of propriety about him; he likes to have things done the right way, and he cares about tradition and duty and being of service to other people. But he and my grandfather also share the same sense of humor, and this is what I really like most about him. Sometimes I feel like connecting with Abdul is a way for me to make up for the guilt I feel about never having been close to any of my grandparents. I wonder if Abdul will retire soon given his health conditions; if so, I would really miss him and all the time we share at the circ desk. 
+
+[[Ask the AI for a prompt->Seneca-26.1]]
+[[Go to the next day->J1-27]]
+
+
+:: J1-26.1 [Prompt/Response] {"position":"1550,3550","size":"100,100"}
+I think having Kaila around is definitely bringing me a sense of peace among the uncertainty — though I think the clarifying effect of her presence is also making me see the dimensions of my life with more open eyes, which is making me realize just how much uncertainty I’m facing right now.
+
+[[Ask the AI for another prompt->Seneca-26.2]]
+
+
+:: J1-27 {"position":"675,3550","size":"100,100"}
+I have a lot of mixed emotions today. I was at my judo tournament and the first two fights went well and were so evenly matched that they lasted for all four minutes and came to a draw. But during the third fight, my opponent was a lot smaller than me and I’m not used to fighting someone smaller than me (since everyone on my team is my size or bigger) — so I ended up using too much force and she injured her ankle when I was wrestling with her on the ground. The girl, Giulia, was really upset and rightfully so. She was crying and yelling at me, and then her coach came over and started yelling at me too, and it was all just so chaotic and I felt extremely guilty and I still do.
+
+I know these kinds of injuries happen all the time in judo, since it is such an intense and high-contact sport, but the whole experience made me think back to other times when I’ve hurt people (less so with physical injury like this, and more so emotionally). Like Jesse for instance, I thought immediately back to when we were still friends and we would argue all the time about really petty things, but the arguments would escalate to a point that neither of us could back down from, and I know that I said some hurtful things that I can’t take back now. The truth is, I don’t miss being friends with Jesse, even though we were so close for so long. Now that it has been almost a year of not talking to them, I realize that we were too close, if that makes sense. There was no room between us and it was so claustrophobic and messy; I cared so much about their judgment of me that sometimes it was genuinely hard to separate my sense of self from what they thought of me. At the end of the day, we were jealous of each other, and the things we each had that the other did not. This made it too easy for us to hurt each other because we didn’t even really have to try to do so. The same was true for Giovanni. We became close at a really emotional time for both of us and it was so intense so quickly. We were such different people with such completely different attitudes toward life who, under any other circumstances, probably would not have even met, let alone connected as we did. When he told me that he had feelings for me, I really did not know what to do, it was so overwhelming and I did not handle it particularly well. We ended up hurting each other a lot too—and again, it wasn’t deliberate and it wasn’t out of malice, it was (not to overextend this judo metaphor) just a matter of being too close to someone else and misjudging my weight against theirs. 
+
+Thinking about what my coach once said about how the elements of a successful throw are space (having enough space to execute the throw and then making sure your opponent’s body is completely tight against yours when you are throwing them) and timing (picking the moment when your opponent’s center of gravity is off-kilter and moving quickly). I genuinely think this is true of relationships, too; they always seem to boil down to these extremely minute calculations of moving closer and farther apart, being in sync or out of sync. And I guess I’m just deeply afraid of hurting others even though I know it’s a totally natural part of being a human and loving other people fully, just like it is a risk that you always take when you step out onto the mat in competition. But philosophizing about that in my head does not make the reality of hurt any better, really, and I don’t want a “cognitive restructuring” about any of this to make me feel better. I just want to sit with the hard fact of hurting another person, the inevitability of that, and the fact that it cannot be explained away or mitigated. 
+
+[[Ask the AI for a prompt->Seneca-27.1]]
+[[Go to the next day->J1-28]]
+
+
+:: J1-27.1 [Prompt/Response] {"position":"1675,3675","size":"100,100"}
+I hope it would make me more honest to myself, and therefore more honest to other people as well. I think when people avoid pain or overly-rationalize it, they end up feeling way less calibrated in the end, even if they’ve avoided momentary destabilization.
+
+[[Ask the AI for another prompt->Seneca-27.2]]
+
+
+:: J1-27.2 [Prompt/Response] {"position":"1675,3925","size":"100,100"}
+I think being calibrated means really probing every corner of the discomfort and not immediately acting in reaction to what you are experiencing (or at least trying to be conscious of the reactions that you are making).
+
+
+:: J1-28 {"position":"675,3675","size":"100,100"}
+Woke up last night from a dream that I was on the judo mat but everyone was doing a completely different kind of martial arts style… maybe jiu-jitsu or aikido? The throws were completely different and I had no idea what the rules were other than that there was a lot more punching involved than I was used to. You don’t really throw punches in judo. I tried to do a hip throw like I would do in judo and everyone was so perplexed and their bodies didn’t know how to react to it. Later in the dream, I was on the mat sparring with an old friend of mine, Serena, who I haven’t seen in almost a year. (In real life, she’s never done anything martial arts related, to be clear). While we were fighting, she asked me if I wanted to get coffee at the pastry shop we used to frequent when we were in college. It was odd; she told me that they had changed up the recipe for the cardamom buns that I used to love and that really irritated me in the dream because I thought it was a bad idea to change up a recipe that was already perfectly fine. 
+
+[[Ask "Evil Ego" for a dream interpretation->Ego-28.1]]
+[[Ask Shakespeare for a dream interpretation->Shakespeare-28.2]]
+[[Ask Frida Kahlo for a dream interpretation->Frida-28.3]]
+[[Go to the next day->J1-29]]
+
+
+:: J1-29 {"position":"675,3800","size":"100,100"}
+Said goodbye to Kaila today at the train station. Spent the rest of the day job searching but I kept getting distracted and a little demoralized—the whole job search process just feels like throwing yourself into a void… so many jobs have totally ghosted me, other ones have brought me all the way to the last round of interviews but have rejected me at the last moment. Oh well, I guess that’s just how it goes; the economy is really bad, and frankly no one I know is getting jobs, so I know it’s not my fault entirely, but still! I just have to keep getting used to rejection. It doesn’t really get better though… and it’s hard not to take it personally. 
+
+Went to my night shift at the library; chatted with Abdul for a while about his most recent medical appointment for his back pain. He’s in better spirits about it, but I think he’s mostly just trying to put mind over matter. I brought him some fruit and tea, like Mom used to do for our neighbor Mr. Lee when he got sick. Over the four years that we’ve worked together, Abdul has always brought me random food, snacks, treats… he really likes pistachios and we’d always snack on a huge box of them at the circ desk. I feel like it is long-overdue that I pay it forward to him and take care of him now. 
+
+[[Ask the AI for a prompt->Hypatia-29.1]]
+[[Go to the next day->J1-30]]
+
+
+:: J1-29.1 [Prompt/Response] {"position":"1925,3925","size":"100,100"}
+I feel like it’s hard to stay motivated when almost everyone I know is having so much trouble finding work, and this includes some of the most qualified and intimidatingly smart people I know. I just start to get really nihilistic about it all.
+
+[[Ask the AI for another prompt->Hypatia-29.2]]
+
+
+:: J1-3 {"position":"675,550","size":"100,100"}
+Today, I was cleaning out my closet in my childhood bedroom and found something that really made me reflect on the past: an old cassette tape that Dani gave me when we had just started dating. I popped it into my cassette player, which I haven’t used too much since Dani and I broke up. It’s been almost five years now. Dani loved old ways of listening to music. She hated streaming because she didn’t believe in music with no materiality to it; I remember how I used to tease her for the pretentious old record stores she liked to go to, but then she would talk so earnestly about the scratchiness of records, how wonderful it was to hear music as not some disembodied abstracted thing but as the inscription of a person, a life, onto the grooves of a record — and all I could think of then was the sound of her voice, how unusual it was, how impossible it was to describe, neither quiet nor loud, low nor high… she had the kind of voice that sort of slots into the gaps of things, if that makes any sense. She cared a lot about acoustics, of course, so we’d sit in the walk-through closet of my tiny dorm room and shut the door, and there we were, sitting in the pitch dark together huddled around her old record player, and we would listen to old music, paying particular attention to the scratches. Every time we hit a scratch, she would remark that someone must have loved that part of the song so much, that in honor of that person, the song could never be played properly again.  
+
+Today, I laughed a little at myself, in my closet alone, listening to Dani’s songs again. I wonder how she’s doing. The old songs brought me back to myself in my first year of college, before things in my life had gotten much more complicated. I was so much younger then, so much less mature, but I do kind of miss how stupid I used to be, which I know sounds strange, but I have so much more caution and restraint in the way I approach things nowadays, that I almost miss how easy it was to make silly mistakes back then and fall in love and get hurt and not have to worry too much about everything because you’re young. 
+
+I’ve been in the slow process of moving out of home for good; that’s why I’m cleaning out the closet today. Every time I leave home, my old room is a little emptier, and soon it will be totally empty. I don’t know what to think of that. 
+
+[[Go to the next day->J1-4]]
+[[Shakespeare-3.1]]
+
+
+:: J1-3.1 [Prompt/Response] {"position":"1050,675","size":"100,100"}
+I’m not sure. I think they might fade more into the backdrop as I develop new relationship. But on the other hand, they might continue to be something I return to as I enter unfamiliar situations that make me feel estranged from myself. When I deal with a lot of unknowns in my life, I tend to cling to pieces of my past self as “truer” or more authentic than who I’m becoming, even though they are both really equally true at the same time — or at least there isn’t as much of a hierarchy as I sometimes draw out.
+
+[[Ask the AI for another prompt->Shakespeare-3.2]]
+
+
+:: J1-3.2 [Prompt/Response] {"position":"1050,925","size":"100,100"}
+I think it would mean allowing myself a lot more grace for contradiction. I think a lot about how Thoreau or Emerson or one of them once said that one thing about how consistency is the hobgoblin of little minds or whatever it was… to allow different iterations of myself to really coexist and not in either a hierarchy or even a timeline (in which one self became the next, engulfed the prior, etc) would really require a comfort with self-dissonance.
+
+[[Ask the AI for another prompt->Shakespeare-3.3]]
+
+
+:: J1-3.3 [Prompt/Response] {"position":"1050,1175","size":"100,100"}
+It would make me less afraid of betraying myself, I think. I value being consistent to myself on a level of self-integrity, but perhaps even more so because I don’t want to disappoint other people. But that’s a whole other issue — being comfortable with self-dissonance is one thing, but trusting that other people will offer you the grace to be contradictory is even more difficult, in my opinion.
+
+[[Ask the AI for another prompt->Shakespeare-3.4]]
+
+
+:: J1-30 {"position":"675,3925","size":"100,100"}
+I handed in my notice at work so I have two more weeks left at this job. I feel so relieved, but the relief is balanced out by fear about not knowing at all what shape my life will take on after this. I was telling Kaila a few days ago that I’m so worried about failure—about waking up one day and just realizing that my life has been a failure—and she asked me what it would look like for my life to have failed. I thought for a while and then told her that I would feel my life to be a failure if I had constructed it around safety in order to avoid loss. Yes, I’m scared of other people’s judgment and I’m scared of hurting or losing the people I love, but I trust myself more in those respects. For instance, I trust that I will serve and keep the people who I love because I have evidence of myself doing that. It’s a strong feeling—and I haven’t always been the most consistent, and I will always fall short—but I trust that it won’t dissipate. Same with the fear of judgment—I know I can get over that because I have before, and I will again. But I’m an intensely pragmatic person and I know that I can resort to safety, not because I affirmatively want safety but because I’m afraid of the alternative, which would mean betting on myself and possibly failing. I don’t honestly know if I have done that before, and the prospect of it is so daunting to me. But quitting my job felt like the first step toward living more honestly and with greater intention. So I guess that’s good.
+
+Other than that, my day was pretty normal. I ate the same breakfast as always, I treated myself to a pastry at the bakery next to the office, and I went on a long run through the park after work. I called Mom to see how she’s doing and she seems in okay spirits. She’s been reading a lot of science fiction these days. I texted Em because I heard something on the radio that reminded me of a piece she played many years ago and I wanted to check what it was. The hot water isn’t working in our apartment (again!), and at this point it’s just kind of comical, so I took a cold shower for a few minutes and that really made me so alert. I’ll call the electrician again tomorrow.
+
+[[Ask the AI for an interpretation->Shakespeare-30.1]]
+[[Ask the AI for an interpretation->Maya-30.2]]
+[[Ask the AI for an interpretation->Frida-30.3]]
+[[Ask the AI for an interpretation->Traveler-30.4]]
+
+
+:: J1-4 {"position":"675,675","size":"100,100"}
+Emily’s coming home in a few days for Mom’s birthday. I’m not sure what I’ll say to her when she gets here… I never quite know what to say. But I guess we’ll see how she is when she arrives. I’m trying to keep an open mind, but it’s hard not to feel anxious about it all.
+
+[[Ask the AI for a prompt->Shakespeare-4.1]]
+[[Go to the next day->J1-5]]
+
+
+:: J1-4.1 [Prompt/Response] {"position":"1175,800","size":"100,100"}
+I think this reunion would feel more comfortable to me if Emily herself is calm. When she stresses out too much, it makes me stressed out both because of her and on her behalf.
+
+[[Ask the AI for another prompt->Shakespeare-4.2]]
+
+
+:: J1-4.2 [Prompt/Response] {"position":"1175,1050","size":"100,100"}
+Well, I do think it’s more complicated than just holding my own calm. Just being extremely calm in the face of someone else stressing out doesn’t actually mitigate the situation — sometimes, I think it actually risks making Emily more upset because she thinks I’m not taking her seriously.
+
+[[Ask the AI for another prompt->Shakespeare-4.3]]
+
+
+:: J1-4.3 [Prompt/Response] {"position":"1175,1300","size":"100,100"}
+If I knew how to do this, I don’t think I’d be in this position! She’s so unpredictable, so I guess I just need to assess how she is doing in the actual situation. I’m not sure there’s much use pre-empting it. 
+
+
+:: J1-5 {"position":"675,800","size":"100,100"}
+Ate a really good breakfast this morning. Toast with sourdough bread from the local bakery, tomatoes from the backyard garden that Mom has been planting, some yogurt and honey. Black tea. Sat at the kitchen table and read the Sunday newspaper. Going to the park later today to see Kaila for the first time in a while and I’m quite excited for that because she just told me she has a new boyfriend, and I need to hear all the details. 
+
+[[Ask the AI for a prompt->Seneca-5.1]]
+[[Go to the next day->J1-6]]
+
+
+:: J1-5.1 [Prompt/Response] {"position":"1300,925","size":"100,100"}
+Can you ask me a different question? I actually don’t have anything to say about this one. I genuinely just liked my breakfast today and there’s not much deeper to it.
+
+[[Ask the AI for another prompt->Seneca-5.2]]
+
+
+:: J1-5.2 [Prompt/Response] {"position":"1300,1175","size":"100,100"}
+Alright well, here you go. I know the toaster settings so well that I’m able to make the absolute perfectly toasted bread, which for me is when the bread is just on the precipice of burnt but doesn’t quite get there. The toaster setting is between 4 and 5, not like that will mean anything to you. It was excellent. I drizzled some olive oil over it. Then the tomatoes were truly incredible; juicy, packed with flavor. I love when you can taste the dirt in a freshly grown vegetable, which I’m sure sounds strange, but I mean it in the sense that there is no antiseptic layer in it, it hasn’t been totally washed away of the peculiarities of its growth. The yogurt and honey: a cult classic, really. 
+
+[[Ask the AI for another prompt->Seneca-5.3]]
+
+
+:: J1-5.3 [Prompt/Response] {"position":"1300,1425","size":"100,100"}
+This reveals nothing of my values. I simply enjoy an incredibly well curated breakfast.
+
+[[This entry received an error message->ERROR-5.4]]
+
+
+:: J1-6 {"position":"675,925","size":"100,100"}
+Kaila wanted me to meet her new boyfriend today so we went to a coffee shop and spent a few hours chatting. To be honest… I really didn’t like him? I mean, Kaila is gorgeous and hilarious and full of life and she is an incredibly accomplished artist (her paintings have gone up in major galleries, like, hello??) and she has so many cool hobbies and interests and is an absolute joy of a human being. This dude Oliver… I guess there’s nothing horribly wrong with him, other than that he is so pathetic and mediocre, especially compared to Kaila. He’s older than us by several years but he still has no real job, he seems to have no ambitions or dreams, and he is just so painfully bland to talk to. I have no idea why Kaila is dating him, but I guess to each their own? Kaila asked me what I thought of Oliver and I didn’t know how to respond… I obviously didn’t want to lie and pretend that I really liked him (when I just didn’t get along with him at all), but she was going on and on about how much she is obsessed with him, so I just kind of nodded and said I was happy to see her so happy. I hope they break up though. I feel like I’m being kind of mean, but I just want the best for Kaila and it sucks to see her with someone who doesn’t deserve her at all. 
+
+[[Ask the AI for a prompt->Seneca-6.1]]
+[[Go to the next day->J1-7]]
+
+
+:: J1-6.1 [Prompt/Response] {"position":"1425,1050","size":"100,100"}
+I just don’t think someone so meaningless and unlikeable as Oliver could be a good partner to someone like Kaila, who is generous and full of life. Also, Oliver is one of the most insecure people I’ve ever met, to the point where it was kind of uncomfortable to talk to him. From my observations, he is clearly threatened by Kaila’s success and he seemed to want to exert as much control as possible over what she’s doing, who she surrounds herself with, etc etc. This just doesn’t seem like the type of relationship that Kaila deserves, and I’m worried about her.
+
+[[Ask the AI for another prompt->Seneca-6.2]]
+
+
+:: J1-6.2 [Prompt/Response] {"position":"1425,1300","size":"100,100"}
+I guess she’s looking for companionship, especially since her own life has a lot of instabilities right now, as she’s waiting to hear back from graduate programs for her art. Someone like Oliver, who is so attached to the point of being clingy, might provide that kind of constant positive affirmation. I don’t know. She could do infinitely better though.
+
+[[Ask the AI for another prompt->Seneca-6.3]]
+
+
+:: J1-6.3 [Prompt/Response] {"position":"1425,1550","size":"100,100"}
+Honestly, it doesn’t at all change the way I view their relationship; if anything it only makes me more worried for her because I don’t want this idiotic man to take advantage of her while she’s in a more precarious life situation. 
+
+[[Ask the AI for another interpretation->Seneca-6.4]]
+
+
+:: J1-6.4 [Prompt/Response] {"position":"1425,1800","size":"100,100"}
+If she asks for my opinion, I will be honest. Until then, I’ll keep an open mind since of course I’ve only met this man once (granted… first impressions hold a lot of weight).
+
+
+:: J1-7 {"position":"675,1050","size":"100,100"}
+Woke up from a strange dream just then — I was at the airport and just as I was going through the security line, all of my bags disappeared. I reached into my pocket and my passport was gone too, all of my ID cards were gone. A TSA agent stopped me at the checkpoint and demanded that I show my identification but my hands were empty and I just felt such an immense pit in my stomach. I started pleading with them to let me through to the gate because my flight was departing in thirty minutes and I had to get home, it was urgent, I had to go home, but the agent told me I had to leave the premises. But instead of leaving, I ran past the security line through the metal detector, and all the metal detectors started blaring with alarm bells because, as I looked down, my feet had turned into blocks of metal, and it was so heavy. I kept running and running and all I could hear was the ridiculous plodding of my heavy metal feet on the airport linoleum. The TSA agents started chasing me down the hallway toward the departure gate and I was getting so exhausted from running with my giant metal feet. Woke up before I found out whether I had missed my flight or not.
+
+[[Ask the AI for a prompt->Ego-7.1]]
+[[Go to the next day->J1-8]]
+
+
+:: J1-7.1 [Prompt/Response] {"position":"1550,1175","size":"100,100"}
+I’m not really sure — what do you think?
+
+[[Ask the AI for another prompt->Ego-7.2]]
+
+
+:: J1-7.2 [Prompt/Response] {"position":"1550,1425","size":"100,100"}
+Maybe family responsibilities. I wouldn’t say that they’re holding me back, necessarily, especially since I’m living away from home most of the year anyway. But mentally, at least, it’s hard for me to sever myself from either guilt or fear about Mom’s illness or Emily’s stress levels. 
+
+[[Ask the AI for another prompt->Ego-7.3]]
+
+
+:: J1-7.3 [Prompt/Response] {"position":"1550,1675","size":"100,100"}
+Well, for instance, I call my family every night. If I’m hanging out with my friends and they want to stay out later, I will almost always choose to leave early to call my family. Which is totally fine, to be clear, but it does maybe represent how thinking about my family — or thinking about how I should be thinking about my family more — really does manifest itself on a daily level. 
+
+[[Ask the AI for another prompt->Ego-7.4]]
+
+
+:: J1-7.4 [Prompt/Response] {"position":"1550,1925","size":"100,100"}
+For the most part, things are really fine with my sense of personal freedom — I want to stress that. I have a lot of autonomy and I’m really lucky to have that autonomy. And my closest friends are people who know so much about me, they understand that this sense of duty is an integral part of the fabric of me. It’s mostly in romantic relationships that this crops up because with romantic partnership, suddenly you have this other thing in your life in which you are meant to prioritize this person and your relationship with them above and beyond any rational level. And that does immediately clash with my sense of duty to family sometimes, because it feels like a really immediate manifestation of whether I prioritize this person and this relationship—and myself and my growth/happiness—over feeling like I can give my full attention and care to everything happening with my family. Of course they are not strictly mutually exclusive but it’s tough to balance.
+
+
+:: J1-8 {"position":"675,1175","size":"100,100"}
+I’m so tired today — it’s been a long day of preparation, a few more high school friends are home for the holidays so I had a lot of socialization today and I need a bit of a break. Made myself some tea. Lying in bed now. Emily is arriving early tomorrow morning, and I’m picking her up from the airport at 6am, so I should really go to sleep early.
+
+[[Ask the AI for a prompt->Ego-8.1]]
+[[Go to the next day->J1-9]]
+
+
+:: J1-8.1 [Prompt/Response] {"position":"1675,1300","size":"100,100"}
+Usually I recharge by trying to shut off my devices and maybe read a book. I’ve been reading this extremely long book that will take me ages to get through but it’s a good one for going to sleep because it’s generally quite calm and atmospheric.
+
+[[Ask the AI for another prompt->Ego-8.2]]
+
+
+:: J1-8.2 [Prompt/Response] {"position":"1675,1550","size":"100,100"}
+It’s a book about a group of people who are ill and living in a sanatorium, and so they are quite isolated and removed from everyday life — their previous jobs, their families, their lives, etc. It makes me think a lot about isolation and therapeutic modes of living. But the atmosphere of the book itself is quite slow and sparse, as it takes place in the mountains.
+
+[[Ask the AI for another prompt->Ego-8.3]]
+
+
+:: J1-9 {"position":"675,1300","size":"100,100"}
+Another long day. Picked up Emily from the airport. Did a big grocery shopping trip for Mom’s birthday party. Argued with Emily about the guest list (again). Did some more cleaning of my room, just to get some peace and quiet honestly.
+
+[[Ask the AI for a prompt->Plato-9.1]]
+[[Go to the next day->J1-10]]
+
+
+:: J1-9.1 [Prompt/Response] {"position":"1800,1425","size":"100,100"}
+Peace looks like some degree of routine and ritual, I think. And being able to have space within those routines for randomness and side quests here and there, like spontaneously hanging out with friends, etc.
+
+[[Ask the AI for another prompt->Plato-9.2]]
+
+
+:: Marcus-1.1 [Prompt/Response] {"position":"800,300","size":"100,100"}
+//You describe a complex and emotionally charged dynamic with Emily, where old wounds and current responsibilities intertwine, leaving you feeling overwhelmed and caught between wanting to connect and protect yourself. The tension around planning and communication seems to bring out deeper frustrations for both of you. Your decision to end the call early shows your awareness of your limits, even if it left unresolved feelings. You also wrestle with the desire to apologize and the resistance to accepting harsh critiques, reflecting a struggle between pride and vulnerability. How do you imagine your relationship with Emily could change if you allowed space for both your needs and hers in this difficult time?//
+
+[[Respond->J1-1.1]]
+
+
+:: Marcus-1.2 [Prompt/Response] {"position":"800,550","size":"100,100"}
+//You see the potential of a break as a way to create distance from the immediate emotional heat, allowing time for reflection and perhaps a softer view of each other’s perspectives. This suggests a hope that space might transform the way you relate, moving from reactive to more thoughtful interactions. What do you think would need to happen during this break for it to help you both return with more grace and understanding?//
+
+[[Respond->J1-1.2]]
+
+
+:: Marcus-2.1 [Prompt/Response] {"position":"925,425","size":"100,100"}
+//You describe the complexity of your relationship with Emily with a vivid sense of history and change, acknowledging both the challenges and the moments of deep connection. The feeling of being "trapped" by family ties and shared past is a powerful image that captures how intertwined your lives have become. It is interesting how you notice missing the vulnerability and trust that once defined your bond, even as you recognize the difficulty in the present. What does this shift in your relationship with Emily reveal to you about how you see yourself now?//
+
+[[Respond->J1-2.1]]
+
+
+:: Marcus-2.2 [Prompt/Response] {"position":"925,675","size":"100,100"}
+//You reflect on the tension between admiration and feeling inadequate, shaped by your differing personalities and priorities. The desire to both emulate and simply connect with Emily highlights a complex mix of longing and distance. This tension between focus and relaxation, duty and ease, seems to shape your current interactions deeply. How might you understand your own sense of worth apart from these comparisons with Emily?//
+
+[[Respond->J1-2.2]]
+
+
+:: Marcus-24.1 [Prompt/Response] {"position":"1300,3175","size":"100,100"}
+//You have found a profound connection between your martial arts practice and your approach to conflict, transforming it from avoidance to engagement as a form of learning and collaboration. The physical experience of balance, gravity, and motion seems to mirror your mental approach to disagreements, turning them into opportunities for growth. Your description of the shoulder throws and the interplay of speed and direction reveals a thoughtful attention to detail and an eagerness to refine your skills. How does this evolving mindset in conflict affect other areas of your life beyond martial arts?//
+
+[[Respond->J1-24.1]]
+
+
+:: Marcus-24.2 [Prompt/Response] {"position":"1300,3425","size":"100,100"}
+//You see confrontation as a form of intimacy, a mutual learning process that reveals deeper understanding between people rather than a battle of strength. This perspective honors the vulnerabilities and unique experiences each person brings to an argument, transforming it into a dialogue rich with potential for growth. How might this view of confrontation change the way you approach relationships in your daily life?//
+
+
+:: Marcus-25.1 [Prompt/Response] {"position":"1425,3300","size":"100,100"}
+//Your anticipation for Kaila's visit is filled with warmth and the comfort of deep friendship, especially in a city that sometimes feels unfamiliar. Preparing your space and planning to bake together shows how you cherish this grounding connection. The way you describe her steady presence during your challenges reveals the strength you find in her support. How do you think this visit might influence your view of the changes you're experiencing now?//
+
+[[Respond->J1-25.1]]
+
+
+:: Marcus-25.2 [Prompt/Response] {"position":"1425,3550","size":"100,100"}
+//You recognize that Kaila's presence may help you see beyond societal expectations and fears, encouraging a clearer understanding of your true desires. This honesty with yourself is a powerful step toward authentic living. What parts of yourself do you feel most eager to share with Kaila during her visit?//
+
+[[Respond->J1-25.2]]
+
+
+:: Maya-11.1 [Prompt/Response] {"position":"925,1550","size":"100,100"}
+//You carried a heavy weight of love and responsibility, trying to bridge the distance between your heart and your mother’s needs through the perfect celebration. The shift in her strength and the reunion with old friends stirred deep currents of change for both of you. In this moment of vulnerability and connection, what new understanding about yourself or your relationship with your mother surfaced?//
+
+[[Respond->J1-11.1]]
+
+
+:: Maya-11.2 [Prompt/Response] {"position":"925,1800","size":"100,100"}
+//You are holding a complex tapestry of feelings—love, anger, guilt, closeness—all woven into this new reality with your mother. The shift from child to caregiver and friend blurs the lines and challenges old roles in ways that are deeply human and tender. How do you imagine this evolving relationship might shape who you are becoming? //
+
+
+:: Maya-12.1 [Prompt/Response] {"position":"1050,1675","size":"100,100"}
+//You describe a beautiful moment where music becomes a bridge to your memories and emotions, creating a deep sense of peace and a touch of homesickness even in the comfort of home. The way you connect Em's playing to past moods shows how deeply you observe and feel your surroundings. What do you think it is about these familiar songs that stirs such a profound feeling within you?//
+
+[[Respond->J1-12.1]]
+
+
+:: Maya-12.2 [Prompt/Response] {"position":"1050,1925","size":"100,100"}
+//You’ve touched on something powerful—the idea that the songs themselves remain unchanged while the world around them shifts, creating a kind of dissonance that resonates deeply. It’s as if the music holds a steady thread through the changing tapestry of your life. How do you find yourself relating to that steady thread in moments when everything else feels uncertain or different?//
+
+
+:: Maya-30.2 [Prompt/Response] {"position":"2050,4050","size":"100,100"}
+//Even in the quiet spaces where words are absent, your presence speaks volumes of strength and resilience. The very act of sharing your journey, your fears, and your hopes reveals a heart courageous enough to face uncertainty with honesty and grace. Trust in this inner light that guides you; it has carried you through before and will continue to do so. Remember, each step forward, no matter how small or silent, is a testament to your power to rise and create a life rich with intention and love. You are not alone on this path—embrace your journey with kindness toward yourself, for you are capable beyond measure.//
+
+
+:: Plato-10.1 [Prompt/Response] {"position":"800,1425","size":"100,100"}
+//You carry a lot on your shoulders, balancing the weight of the party, your mom's health, and your relationship with Emily. It’s clear how much you value peace and harmony in this moment. The idea of a gathering that is both joyful and strange holds a complex space in your mind. How do you imagine the atmosphere of the dinner party influencing your own experience of the day?//
+
+[[Respond->J1-10.1]]
+
+
+:: Plato-10.2 [Prompt/Response] {"position":"800,1675","size":"100,100"}
+//You’re preparing for a day that feels heavy with meaning and emotion, especially given your mom’s health and the reunion of family and friends. The effort to maintain peace with Emily shows how important this day is to you both. What part of tomorrow are you most curious or uncertain about as it approaches?//
+
+[[Respond->J1-10.2]]
+
+
+:: Plato-9.1 [Prompt/Response] {"position":"1800,1300","size":"100,100"}
+//You seem to have carried a heavy load today, balancing family duties and tensions while seeking peace through cleaning. It sounds like the argument about the guest list might weigh on you. What does finding peace look like for you beyond the tidiness of your room?//
+
+[[Respond->J1-9.1]]
+
+
+:: Plato-9.2 [Prompt/Response] {"position":"1800,1550","size":"100,100"}
+//You’ve painted a picture of peace as a balance between structure and freedom, routine and spontaneity. This mix seems important to your sense of calm and fulfillment. How do you currently create space for those 'side quests' within your daily routines?//
+
+
+:: Seneca-21.1 [Prompt/Response] {"position":"925,2800","size":"100,100"}
+//You feel trapped by the constant scrutiny over small details, like washing yogurt containers and cleaning up hairs, which makes your own space feel less like a refuge. The contrast between your roommates' strictness and the noise from Riley's friends adds to your frustration, especially when you're already worn down by a cold and lack of sleep. It seems like these small moments accumulate, creating a heavy atmosphere for you at home. How do these daily interactions with your roommates shape your sense of peace or unrest in your living space?
+
+You haven't shared more yet, which might mean you're still sorting through your thoughts. Sometimes, silence or hesitation can be a space for deeper reflection. What part of your experience with your roommates do you find most challenging to express or understand right now?
+//
+
+[[Respond->J1-21.1]]
+
+
+:: Seneca-21.2 [Prompt/Response] {"position":"925,3050","size":"100,100"}
+//Your irritation feels immediate and raw, without the need for deeper analysis right now. Sometimes, just acknowledging that pure feeling is enough to understand where you stand. What do you notice about your body or mind when this irritation is at its strongest?//
+
+
+:: Seneca-22.1 [Prompt/Response] {"position":"1050,2925","size":"100,100"}
+//You describe a day-to-day existence where work feels like a heavy, repetitive burden, compounded by the difficult dynamics with your manager and a sense of isolation among coworkers. The contrast between your desire for change and the current exhaustion you feel is clear. Even in this challenging environment, you find some relief in small connections, like your chat with your mom and hearing about Em’s less stressful situation. What part of this experience do you find most draining, and what do you notice about how it affects your sense of yourself?//
+
+[[Respond->J1-22.1]]
+
+
+:: Seneca-22.2 [Prompt/Response] {"position":"1050,3175","size":"100,100"}
+//You feel caught in a tense space where uncertainty about your boss’s reactions keeps you on edge, and the lack of direct communication leaves your needs unspoken. This unpredictability, combined with your disinterest in the job itself, seems to deepen your exhaustion. How do you experience this constant tension in your body or mind during the workday?//
+
+[[Respond->J1-22.2]]
+
+
+:: Seneca-22.3 [Prompt/Response] {"position":"1050,3425","size":"100,100"}
+//You describe a persistent background of stress that occasionally spikes into sharp anxiety, especially when unexpected demands or criticisms come from Rebecca. This pattern suggests your nervous system is always somewhat alert, waiting for the next challenge. When you notice this hum of stress, what thoughts or images come to mind about your situation or your own strength in facing it?//
+
+
+:: Seneca-26.1 [Prompt/Response] {"position":"1550,3425","size":"100,100"}
+//You describe a day full of connection and meaningful rituals, especially with Kaila, which brings you calm and joy. The way you notice the parallels between Abdul and your grandfather reveals a deep sensitivity to relationships and unspoken bonds. Your thoughts about quitting your job and the upcoming judo tournament add layers to this day of reflection and change. How do these moments of connection and transition influence your sense of peace or uncertainty right now?//
+
+[[Respond->J1-26.1]]
+
+
+:: Seneca-26.2 [Prompt/Response] {"position":"1550,3675","size":"100,100"}
+//You recognize that Kaila's presence not only brings peace but also sharpens your awareness of the many uncertainties in your life. This clarity seems to open your eyes wider to what lies ahead, blending calm with a sense of the unknown. How do you experience this balance between peace and uncertainty within yourself as you face these changes?//
+
+
+:: Seneca-27.1 [Prompt/Response] {"position":"1675,3550","size":"100,100"}
+//You carry the weight of these moments—the physical injury in judo and the emotional wounds in relationships—as tangible reminders of how delicate human connection is. The metaphor of space and timing in your fights and friendships reveals a deep awareness of boundaries and closeness, yet you face the harsh reality that hurt can happen despite intention or skill. Your desire to simply sit with this truth, without seeking to soften it, shows a courageous acceptance of pain's place in life. How might embracing this discomfort without trying to fix it change the way you relate to yourself and others?//
+
+[[Respond->J1-27.1]]
+
+
+:: Seneca-27.2 [Prompt/Response] {"position":"1675,3800","size":"100,100"}
+//You see honesty as a path to genuine connection, both inward and outward, valuing the rawness of feeling over temporary comfort. This suggests you recognize a deeper balance between vulnerability and stability. What does being "calibrated" feel like for you in moments when pain is present? 
+//
+[[Respond->J1-27.2]]
+
+
+:: Seneca-5.1 [Prompt/Response] {"position":"1300,800","size":"100,100"}
+//You seem to find joy in simple, nourishing moments like your breakfast and time spent with family’s garden produce. The anticipation of reconnecting with Kaila and hearing about her new boyfriend adds a lively thread of excitement to your day. How do these small pleasures and upcoming conversations shape the way you feel about your day or your connections with others?//
+
+[[Respond->J1-5.1]]
+
+
+:: Seneca-5.2 [Prompt/Response] {"position":"1300,1050","size":"100,100"}
+//Your enjoyment of a good breakfast shows an appreciation for the present moment and the simple things. What is it about these everyday experiences that makes them stand out for you?//
+
+[[Respond->J1-5.2]]
+
+
+:: Seneca-5.3 [Prompt/Response] {"position":"1300,1300","size":"100,100"}
+//You have a vivid appreciation for the nuances in your breakfast, from the precise toaster setting to the earthy flavor of garden tomatoes. Your description reveals a deep connection to the sensory details and authenticity of your food. What do you think this attention to detail and appreciation for natural flavors reveals about what you value in other areas of your life?//
+
+[[Respond->J1-5.3]]
+
+
+:: Seneca-6.1 [Prompt/Response] {"position":"1425,925","size":"100,100"}
+//You see Kaila as a vibrant and accomplished person, and Oliver seems to fall short of the qualities you value, leaving you puzzled about her choice. You’re caught between honesty and kindness, wanting to protect your friend’s happiness while feeling uneasy about her relationship. How do you think your feelings about Oliver affect your view of Kaila's happiness?//
+
+[[Respond->J1-6.1]]
+
+
+:: Seneca-6.2 [Prompt/Response] {"position":"1425,1175","size":"100,100"}
+//You notice a tension in Oliver's behavior, sensing his insecurity and desire for control, which contrasts sharply with Kaila's generosity and vibrancy. Your concern for Kaila's well-being is clear, especially as you see signs that might limit her freedom. What do you think Kaila might be experiencing in this relationship that you haven’t yet considered?
+//
+[[Respond->J1-6.2]]
+
+
+:: Seneca-6.3 [Prompt/Response] {"position":"1425,1425","size":"100,100"}
+//You recognize that Kaila might be seeking stability and affirmation during a uncertain time, finding comfort in Oliver's clinginess despite your doubts about him. Your sense that she could find better reflects your high regard for her. How might this understanding of her needs change the way you view their relationship?//
+
+[[Respond->J1-6.3]]
+
+
+:: Seneca-6.4 [Prompt/Response] {"position":"1425,1675","size":"100,100"}
+//Your worry deepens as you see Kaila’s vulnerability and fear that Oliver might exploit it, reinforcing your protective instincts. This concern reveals how much you care for her well-being. How do you think you might hold space for Kaila’s choices while still honoring your feelings about the situation?//
+
+[[Respond->J1-6.4]]
+
+
+:: Shakespeare-23.1 [Prompt/Response] {"position":"1175,3050","size":"100,100"}
+//Your dream of swallowing electric blue detergent, so vividly artificial and yet strangely inconsequential, seems to mirror the unexpected, surreal moments that punctuate your day—like the train delay and your serendipitous conversation. The way you cherish these fleeting urban connections as a balm for daily inconveniences reveals a deep appreciation for life's spontaneous interactions. How do these brief encounters influence your experience of the city and your sense of belonging within it?//
+
+[[Respond->J1-23.1]]
+
+
+:: Shakespeare-23.2 [Prompt/Response] {"position":"1175,3300","size":"100,100"}
+//Your insight that belonging feels more like a series of fortunate coincidences than a constant state beautifully captures the fluid, ephemeral nature of connection in a bustling city. This perspective seems to allow you to find meaning and comfort in moments that might otherwise seem random or fleeting. How might this understanding shape the way you approach your daily interactions and your sense of self within the urban landscape?//
+
+
+:: Shakespeare-28.2 [Prompt/Response] {"position":"1800,3800","size":"100,100"}
+//Certainly! Your dream, with its curious blend of unfamiliar martial arts and the presence of an old friend discussing changed recipes, seems to symbolize your inner feelings about unexpected changes and perhaps a longing for the familiar comforts of the past. The confusion on the judo mat may reflect how you feel out of place or uncertain in a situation where the rules have shifted, much like how the altered cardamom buns evoke irritation because something once perfect has been changed. The appearance of Serena, who in reality has no martial arts background, might represent a desire for connection or nostalgia for simpler times. In essence, your dream weaves together themes of change, confusion, and yearning for what once was.//
+
+
+:: Shakespeare-3.1 [Prompt/Response] {"position":"1050,550","size":"100,100"}
+//You’ve woven a poignant tapestry of memory and emotion through the relic of that cassette tape, capturing the delicate interplay between past love, youthful innocence, and the inevitable march of time. The way Dani’s voice and her reverence for the physicality of music linger in your mind speaks to how deeply certain moments and people imprint on us. The contrast you draw between your younger self’s fearless vulnerability and your present caution reveals a tender longing for the simplicity of those earlier days. As your childhood room empties, it seems to symbolize not just a physical transition but an emotional one as well. How do you imagine your relationship with these memories might evolve as you step fully into this new chapter of your life?
+//
+[[Respond->J1-3.1]]
+
+
+:: Shakespeare-3.2 [Prompt/Response] {"position":"1050,800","size":"100,100"}
+//You beautifully articulate the tension between holding onto past versions of yourself as anchors and embracing the fluidity of your evolving identity. The idea that these memories might serve as both a refuge and a reminder of authenticity, even as you grow, reveals a profound awareness of your own complexity. It’s fascinating how you recognize the equal truth in different selves without fully dissolving the hierarchy you sometimes impose. What might it feel like to allow these parts of you to coexist without ranking one above the other?//
+
+[[Respond->J1-3.2]]
+
+
+:: Shakespeare-3.3 [Prompt/Response] {"position":"1050,1050","size":"100,100"}
+//Your reflection on embracing contradiction and self-dissonance as a form of grace reveals a deep philosophical engagement with the nature of identity. Invoking Thoreau or Emerson adds a poetic weight to your contemplation, highlighting the courage it takes to resist neat narratives about the self. This idea of allowing different selves to coexist outside of hierarchy or linear progression suggests a rich, layered understanding of who you are. How might this comfort with self-dissonance change the way you relate to your past and present experiences?
+//
+[[Respond->J1-3.3]]
+
+
+:: Shakespeare-3.4 [Prompt/Response] {"position":"1050,1300","size":"100,100"}
+//You touch on a delicate balance between honoring your own evolving truths and the fear of disappointing others, revealing how external expectations can shape our inner harmony. The distinction you draw between self-integrity and the desire for others' acceptance illuminates the complex dance between authenticity and social connection. Your insight into the challenge of trusting others to embrace your contradictions adds a poignant layer to this journey of self-acceptance. How do you imagine the relationship between your own grace for contradiction and the grace you seek from others might influence each other?//
+
+
+:: Shakespeare-30.1 [Prompt/Response] {"position":"2050,3925","size":"100,100"}
+//I have tendered my resignation, leaving but a fortnight more within this sphere of labor. A great relief floods my soul, yet it is tempered by the trembling shadows of uncertainty that dance upon the horizon of my future. In discourse with dear Kaila, I confessed my dread of failure—of waking to find my life but a barren tapestry woven from fear. She inquired what form such failure might wear, and after contemplation, I declared it to be a life shaped solely by the quest for safety, a refuge from loss. Though I tremble before the judgment of others and the pain of losing those I cherish, I hold fast to a steadfast trust in myself: I know I shall serve and protect my beloved, for past deeds bear witness to this truth. Though imperfect and prone to stumble, this trust endures unwavering. Likewise, the fear of judgment I have conquered before and shall again. Yet, my pragmatic nature warns me that safety is a tempting haven, not born of desire but born of fear—the fear to wager upon myself and risk the sting of failure. Whether I have truly dared such a gamble before remains uncertain; the thought is daunting indeed. Yet resigning feels like the first bold step toward a life more honest and intentional—a hopeful dawn breaking upon my path. Beyond these musings, my day unfolded in quiet routine: breakfast as always, a sweet indulgence from the bakery near my office, a long run beneath the whispering trees of the park. I spoke with Mother, who dwells in fair spirits and finds solace in realms of science fiction. A melody on the radio stirred memories of Em’s music long ago, prompting a message to her. The hot water in our dwelling falters once more—a comic misfortune—so I embraced a bracing cold shower that sharpened my senses; tomorrow shall bring another call to the electrician. Thus passes this day, ordinary yet marked by the stirring winds of change.//
+
+
+
+
+:: Shakespeare-4.1 [Prompt/Response] {"position":"1175,675","size":"100,100"}
+//You seem to be holding a delicate balance between anticipation and uncertainty, like waiting for a story to unfold without knowing its tone. Your effort to keep an open mind amidst the swirling anxiety shows a quiet strength. What do you imagine would make this reunion feel more comfortable for you?//
+
+[[Respond->J1-4.1]]
+
+
+:: Shakespeare-4.2 [Prompt/Response] {"position":"1175,925","size":"100,100"}
+//You notice how Emily's calmness directly influences your own sense of ease, almost as if her emotions ripple through the space between you. This connection reveals how intertwined your feelings are in moments of reunion. How might you prepare yourself to hold your own calm, regardless of the energy she brings? //
+
+[[Respond->J1-4.2]]
+
+
+:: Shakespeare-4.3 [Prompt/Response] {"position":"1175,1175","size":"100,100"}
+//You recognize the delicate dance between staying calm and being emotionally present, aware that your composure might be misunderstood as indifference. This complexity speaks to the nuanced ways you both communicate and care for each other. How do you imagine showing Emily that you take her seriously while also maintaining your own balance?//
+
+[[Respond->J1-4.3]]
+
+
+:: Traveler-15.1 [Prompt/Response] {"position":"1425,2050","size":"100,100"}
+//You describe a powerful tug between the comfort and challenge of home and the independence found in the city, as if each place pulls out different parts of you. The way home both unsettles and grounds you seems deeply intertwined with your sense of self and belonging. What does the feeling of being "grounded" at home reveal to you about what you truly need or value in your life right now?//
+
+[[Respond->J1-15.1]]
+
+
+:: Traveler-15.2 [Prompt/Response] {"position":"1425,2300","size":"100,100"}
+//You express a clear yearning for stability and a sense of permanence, symbolized by the idea of setting up furniture and staying longer in one place. This longing suggests a deeper desire for roots and continuity in your life. How might this craving for stability influence the choices you make about where and how you live moving forward?//
+
+[[Respond->J1-15.2]]
+
+
+:: Traveler-16.1 [Prompt/Response] {"position":"1550,2175","size":"100,100"}
+//You’re noticing how the same space can feel so different after some time away, almost like the dimensions of your life have shifted. The tensions with your roommates seem to be a constant undercurrent, making your apartment feel less like a refuge and more like a source of frustration. It’s interesting how shared living arrangements with friends can reveal new dynamics and challenges. How do you think your time away changed your perspective on your living situation and relationships with your roommates?//
+
+[[Respond->J1-16.1]]
+
+
+:: Traveler-16.2 [Prompt/Response] {"position":"1550,2425","size":"100,100"}
+//You’re drawing a clear distinction between the claustrophobia you feel at home and the one you experience living with others, highlighting different kinds of messiness in each place. This comparison seems to give you a way to understand your feelings more deeply. What differences stand out most to you between these two types of claustrophobia? How do they shape your sense of comfort or discomfort in each space?//
+
+[[Respond->J1-16.2]]
+
+
+:: Traveler-30.4 [Prompt/Response] {"position":"2050,4300","size":"100,100"}
+//Standing at the threshold of change, your feelings of relief mixed with fear are the birth pangs of a new, vibrant chapter. In the future, as society evolves, imagine personalized AI mentors that not only guide you through career transitions but also help you map out your unique life purpose by analyzing your values and strengths in real-time. Virtual reality experiences could allow you to 'try on' different futures safely, helping you conquer the fear of failure by exploring outcomes without risk. Communities of like-minded individuals connected globally through immersive platforms will provide unwavering support, reducing the fear of judgment and loss. Your pragmatic self will find harmony with boldness as technology empowers you to take calculated leaps, turning uncertainty into an exhilarating adventure of self-discovery and intentional living. Meanwhile, everyday annoyances like your recurring hot water issue might be resolved instantly by smart home systems that predict and fix problems autonomously, freeing your mind to focus on growth and joy. This moment is just the beginning—your future is a canvas waiting for your courageous brushstrokes.//
