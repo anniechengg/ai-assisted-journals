@@ -1,0 +1,363 @@
+:: StoryTitle
+Rosebud experiment probe 2
+
+
+:: StoryData
+{
+  "ifid": "6E488786-F4F6-4FAF-9BC7-3EB7BB51A1EF",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "J1-1",
+  "tag-colors": {
+    "Recap/Reference": "orange"
+  },
+  "zoom": 1
+}
+
+
+:: J1-1 {"position":"700,300","size":"100,100"}
+Woke up late today and I was rushing to work (in person work today)—last night, I dreamt that I was in the laundromat and for some reason, I swallowed a cup of laundry detergent. There was genuinely no cause or effect from the laundry detergent (I mean, I don’t think it tasted very good, but I managed to swallow the whole thing). It was electric blue and very artificial-looking. Anyway, I woke up late and was rushing to get on the train to work. There was a signal malfunction at one of the stations on my train line, so we were stalled for fifteen minutes. Chatted with the girl next to me on the train; I was reading a book, and she had read the same book a month ago, and she told me that the book starts to get really good on page 75, so don’t give up, you have to get to page 75. This reminded me why I do love the city, these moments of intense coincidence and urban communion. Even the inconvenience of a train delay and a convoluted commute is offset by the randomness of striking up conversation with someone on the train and having a moment of genuine connection before going about your respective lives again. 
+
+[[Ask the AI for interpretation->R-1.1]]
+
+
+:: J1-1.1 {"position":"825,425","size":"100,100"}
+I was reading the book "The Magic Mountain," by Thomas Mann.
+
+[[Ask the AI for another prompt->R-1.2]]
+
+
+:: J1-1.2 {"position":"825,675","size":"100,100"}
+It was my grandfather's favorite book. He died when I was two months old, so I never had the chance to get to know him.
+
+[[Ask the AI for another prompt->R-1.3]]
+
+
+:: J1-1.3 {"position":"825,925","size":"100,100"}
+I don't actually know why he loved it so much; I feel like I've been reading it to try and understand. He was an avid reader; he really liked German literature and continental philosophy, even though he was from Oakland Chinatown and it would have been kind of weird for someone like him to have those interests. He ended up being a history professor. He was a big inspiration to my mom.
+
+[[Ask the AI for another prompt->R-1.4]]
+
+
+:: J1-1.4 {"position":"825,1175","size":"100,100"}
+It's hard to say. I guess he was interested in that time period in history. Maybe something about the unusual pathologies of an intellectual life? Or at least that's what I'm taking away from the book.
+
+[[Ask the AI for another prompt->R-1.5]]
+
+
+:: J1-1.5 {"position":"825,1425","size":"100,100"}
+I'm not sure I had much of an idea of him beforehand, other than what my mom and my siblings have told me. But maybe beforehand I pictured him as someone who wasn't conflicted about his intellectual pursuits, and this book is making me think that he doubted himself more than I expected.
+
+[[Finish entry and get analysis->R-1-insights]]
+
+
+:: J1-2 {"position":"1000,300","size":"100,100"}
+I'm thinking about California and home and the wildfires that swept through LA in the winter. A few of my friends were there at the time, and coincidentally I had just come home after visiting them the day before all the fires really started. Mel was living right in the middle of two different zones of fires and she drove all the way to stay with friends in a different state; Tee's family home was up in the hills and he had to evacuate. It was so jarring to have just been there in a city that was bright and shiny and alive and then see it on the news, totally incinerated. 
+
+I'm worried about everything that I see on the news these days — I try to avoid it and then feel guilty about my avoidance. I am worried about my home, my friends who are back there. I'm worried about all the stuff happening with academic freedom and student protestors. I'm worried about the cost of living crisis and how none of us seem to be able to get jobs in this economy. I'm worried about the rolling back of public health and climate policy, not just in an abstract way but in the way of it very directly affecting people I love. 
+
+As I left home the last time, after the fires, I thought about how the worlds you know can disappear so suddenly, especially in California — man, that place is always forgetting itself, every time I come back it's totally changed. In my lifetime, the encroachment of big tech companies really changed everything and sometimes it feels like the soul of it is diminishing more and more every year.
+
+[[Ask the AI for a prompt->R-2.1]]
+
+
+:: J1-2.1 {"position":"1125,425","size":"100,100"}
+I guess I didn't really think too much about it until I left my childhood home. Right now, since I'm perpetually in between places, I'm more inclined to understand home as the feeling of return, moreso than any concrete landmark or external thing.
+
+[[Ask the AI for another prompt->R-2.2]]
+
+
+:: J1-2.2 {"position":"1125,675","size":"100,100"}
+I don't think I really could put it into words. It's more of an intuition thing.
+
+[[Ask the AI for another prompt->R-2.3]]
+
+
+:: J1-3 {"position":"1300,300","size":"100,100"}
+I am struggling to understand my sexuality.
+
+[[Ask the AI for a prompt->R-3.1]]
+
+
+:: J1-3.1 {"position":"1425,425","size":"100,100"}
+I've known for several years now that I'm attracted to people of all genders, so this is not the primary issue, but I feel a lot of inhibitions to intimacy and relationships. 
+
+[[Ask the AI for a prompt->R-3.2]]
+
+
+:: J1-3.2 {"position":"1425,675","size":"100,100"}
+I don't know.
+
+[[Ask the AI for another prompt->R-3.3]]
+
+
+:: J1-3.3 {"position":"1425,925","size":"100,100"}
+Yes — I think these inhibitions have come up most for me when I realize that I am attracted to certain kinds of risk-taking or unstable situations, which can feel emotionally self-destructive.
+
+[[Ask the AI for another prompt->R-3.4]]
+
+
+:: J1-3.4 {"position":"1425,1175","size":"100,100"}
+Emotional safety to me means being able to talk about nearly anything and share everything; whereas I would say risk-taking or instability is usually premised on withholding things (withholding information, withholding clarity), secrecy, or unspoken motivations — which I think can be really interesting and attractive. 
+
+[[Ask the AI for another prompt->R-3.5]]
+
+
+:: J1-3.5 {"position":"1425,1425","size":"100,100"}
+I'm a person who really likes to put things into words and so when I meet people who really halts my ability to do that, or questions the definitiveness of what I say, it feels like I'm finally being challenged.
+
+[[Ask the AI for another prompt->R-3.6]]
+
+
+:: J1-3.6 {"position":"1425,1675","size":"100,100"}
+I feel really out of my depth and afraid, and I feel caught between my instinct toward safety and my desire for risk.
+
+[[Ask the AI for another prompt->R-3.7]]
+
+
+:: J1-3.7 {"position":"1425,1925","size":"100,100"}
+I think my instinct toward safety is tied to the feeling of home because it is wrapped up in my desire to be responsible and selfless and caregiving, especially with regards to my family — whereas taking risks can feel really indulgent and self-centered.
+
+[[Ask the AI for another prompt->R-3.8]]
+
+
+:: J1-4 {"position":"1775,300","size":"100,100"}
+Busy day at work today — not much to say about that, there wasn’t really anything memorable. I feel like I’ve been really living for my hobbies these days because work is so mindless. Ever since starting the martial arts around a year ago, I can’t go a week without it. I love learning how my body reacts to gravity and the weight of another person; it has taught me a lot about how to approach confrontation and conflict. I used to be a lot more conflict averse, but now that I have thrown people to the ground and been thrown on the ground myself so many times, I find myself much more willing to engage in argument with other people as something collaborative (not necessarily antagonistic), in the sense that if you enter an argument with good faith, you will always learn something and hopefully the other person learns something too. Today I was paired with Amira and we were practicing shoulder throws. It was so cool to experiment with speed and directionality; for instance, if you quickly pull the other person in a circular motion, and then turn your back toward them, they will naturally fall onto your back and it becomes extremely easy to throw them. Lots to think about and practice before the tournament this week!
+
+[[Ask the AI for a prompt->R-4.1]]
+
+
+:: R-1-insights {"position":"825,1550","size":"100,100"}
+📚 Moments Of Intense Coincidence And Communion
+
+It sounds like your morning was a whirlwind, with the rush to work and the unexpected train delay. Yet, amidst the chaos, you found a moment of connection with a fellow passenger, which seems to have brought a sense of warmth and community to your day. This encounter, sparked by a shared interest in 'The Magic Mountain,' not only highlights the serendipity of city life but also deepens your exploration of your grandfather's legacy. It seems that through this book, you're piecing together a more nuanced image of him, perhaps realizing that his intellectual journey might have been more complex and filled with self-reflection than you initially thought.
+
+Key Insight:
+
+Reading 'The Magic Mountain' is reshaping my understanding of my grandfather's intellectual journey and self-doubt.
+
+Suggestions:
+- Read The Magic Mountain daily: Dedicate time each day to read 'The Magic Mountain' to connect with your grandfather's interests.
+- Engage in train conversations weekly: Initiate a conversation with a fellow passenger once a week to enjoy urban connections.
+- Explore German literature monthly: Read a new German literature book monthly to deepen understanding of your grandfather's interests.
+- Share a story about your grandfather weekly: Share a story about your grandfather with family or friends weekly to keep his memory alive.
+
+
+
+
+:: R-1.1 {"position":"825,300","size":"100,100"}
+//What a vivid dream about the laundry detergent.
+Dreams can be so peculiar in how they present everyday objects in surreal situations.
+And then to have that serendipitous encounter on the delayed train - there's something poetic about how the frustration of running late led to this meaningful exchange about literature.
+These chance encounters really do create the fabric of city life.
+What book were you reading that sparked this connection with your fellow passenger?//
+
+[[Respond->J1-1.1]]
+
+
+:: R-1.2 {"position":"825,550","size":"100,100"}
+//The Magic Mountain - that's quite an ambitious read.
+It's interesting that your fellow passenger specifically mentioned page 75 as the turning point.
+Sometimes having that kind of specific guidance from another reader can help push through the challenging parts of a dense book.
+What made you choose to start reading The Magic Mountain?//
+
+[[Respond->J1-1.2]]
+
+
+:: R-1.3 {"position":"825,800","size":"100,100"}
+//That's such a meaningful way to create a connection with your grandfather across time.
+Reading the same pages he once read, experiencing the story that moved him so deeply.
+The fact that a stranger on the train happened to give you encouragement about this particular book feels especially poignant given its personal significance to your family history.
+What do you know about your grandfather's relationship with this book or his reading habits in general?//
+
+[[Respond->J1-1.3]]
+
+
+:: R-1.4 {"position":"825,1050","size":"100,100"}
+//There's something deeply touching about using literature as a window into understanding someone you never had the chance to meet - especially someone who shaped your family's story so significantly.
+The image of a Chinese American intellectual in Oakland developing such specific literary interests in German works speaks to a fascinating personal journey.
+The way you're engaging with his favorite book now feels like a form of cultural and familial archaeology, piecing together who he was through the pages that captivated him.
+What aspects of the book so far make you wonder about what might have resonated with your grandfather?//
+
+[[Respond->J1-1.4]]
+
+
+:: R-1.5 {"position":"825,1300","size":"100,100"}
+//That's an interesting observation about intellectual life and its peculiarities.
+The setting of a sanatorium, where time and normal life are suspended, does create a unique space for exploring those themes.
+Given your grandfather's path as a history professor, perhaps he found something familiar in the way the book examines how people construct meaning through ideas and discourse, especially in settings removed from ordinary life.
+Would you say reading this book has changed how you imagine or think about your grandfather?//
+
+[[Respond->J1-1.5]]
+
+
+:: R-2-insights {"position":"1125,925","size":"100,100"}
+🔥 California, Home, And The Wildfires
+
+It sounds like you're carrying a lot of concern and emotional weight about the changes and challenges happening around you, especially with the recent wildfires in California. Your connection to home seems deeply tied to a sense of stability and continuity, which makes the rapid changes and disruptions feel even more unsettling. It seems that your understanding of home has evolved from a physical place to an emotional state, which might be why the transformations in California resonate so deeply with you. This shift in perspective could be influencing how you process the broader uncertainties and changes in the world, as they touch on that same intuitive sense of belonging and return.
+
+Key Insight:
+
+Home has become more about emotional return than physical place.
+
+
+
+
+:: R-2.1 {"position":"1125,300","size":"100,100"}
+//Your reflection carries such weight - the stark contrast between visiting a vibrant LA one day and seeing it engulfed in flames the next.
+
+There's something particularly poignant about how you describe California as a place that's "always forgetting itself." It speaks to a deeper sense of impermanence, not just of physical places but of the communities and ways of life that define them.
+
+Your concerns span from the immediate and personal - friends evacuating from fires, the struggle to find jobs - to broader societal issues.
+
+Yet they're all interconnected, aren't they? The climate crisis, economic instability, and social upheaval aren't just abstract headlines when you can see how they directly impact the people and places you care about.
+
+Yesterday, you wrote about finding unexpected connection during a train delay - those moments of "urban communion" as you called them.
+
+How has your sense of home evolved over the years?//
+
+[[Respond->J1-2.1]]
+
+
+:: R-2.2 {"position":"1125,550","size":"100,100"}
+//That's a beautiful way to frame it - home as the feeling of return rather than a fixed place.
+
+It's interesting how leaving can sometimes help us understand what home means more clearly.
+
+This perspective seems particularly fitting for someone who has witnessed so much change in their hometown, as you described with California's constant reinvention of itself.
+
+When you say "the feeling of return," what sensations or moments most strongly evoke that feeling of coming home for you?//
+
+[[Respond->J1-2.2]]
+
+
+:: R-2.3 {"position":"1125,800","size":"100,100"}
+//Sometimes the deepest truths about home and belonging resist being put into words.
+
+That intuitive understanding you have - that feeling that exists beyond language - can be just as valid and meaningful as any detailed description.
+
+Perhaps that's part of what makes the changes you've witnessed in California feel so significant - they touch something that operates on that same intuitive level.//
+
+[[Finish entry and get analysis->R-2-insights]]
+
+
+:: R-3-insights {"position":"1425,2175","size":"100,100"}
+🌈 Struggling To Understand My Sexuality
+
+It sounds like you're navigating a complex and deeply personal journey, and it's understandable to feel conflicted when faced with the tension between safety and risk. Your attraction to situations that challenge your ability to articulate thoughts might be a way of seeking growth and new perspectives, even if it feels unsettling. It seems that your desire for emotional safety and your attraction to risk-taking are both integral parts of your identity, each offering unique qualities that you value. Perhaps recognizing that both the responsible caregiver and the risk-taker have their own strengths could help you find a balance that feels authentic to you.
+
+Key Insight:
+
+The tension between safety and risk reflects a deeper exploration of identity and desires.
+
+
+:: R-3.1 {"position":"1425,300","size":"100,100"}
+//Thank you for sharing something so personal and complex.
+Questioning and exploring one's sexuality can bring up a lot of uncertainty and complicated feelings.
+This kind of self-discovery is a deeply personal journey that often doesn't have clear answers or timelines.
+What aspects of understanding your sexuality feel most challenging right now?
+//
+
+[[Respond->J1-3.1]]
+
+
+:: R-3.2 {"position":"1425,550","size":"100,100"}
+//Thank you for clarifying.
+It's completely normal to experience inhibitions around intimacy and relationships, even when you have clarity about your attraction.
+These barriers can be complex and multifaceted, and it takes courage to acknowledge them.
+What do you think might be at the root of these inhibitions?//
+
+[[Respond->J1-3.2]]
+
+
+:: R-3.3 {"position":"1425,800","size":"100,100"}
+//That uncertainty is completely valid.
+Sometimes we can feel something strongly without fully understanding why, and that's okay.
+Looking at your past entries, you've shown an appreciation for taking time to process and understand things, like when you were exploring your grandfather's connection to literature.
+Similarly, understanding our relationship with intimacy often requires patience and self-compassion.
+Would it help to explore what situations or moments make you most aware of these inhibitions?//
+
+[[Respond->J1-3.3]]
+
+
+:: R-3.4 {"position":"1425,1050","size":"100,100"}
+//Thank you for that insight - it shows a lot of self-awareness to recognize these patterns and acknowledge their potentially self-destructive nature.
+Being drawn to situations that might not be emotionally healthy for us can be confusing and concerning, especially when we're conscious of the risks involved.
+Your entry from last month about feeling worried about various aspects of life - from news to friends to the economy - suggests you're someone who thinks deeply about consequences and impact.
+This same thoughtfulness seems to be present in how you're examining your relationship patterns.
+What does emotional safety in a relationship look like to you?//
+
+[[Respond->J1-3.4]]
+
+
+:: R-3.5 {"position":"1425,1300","size":"100,100"}
+//There's a fascinating tension in what you're describing - the pull between complete openness and the allure of the unspoken or hidden.
+It's like the difference between the clear connection you described having with the stranger on the train last month (open, genuine, straightforward) versus the complex, layered nature of attraction you're describing now.
+The way you articulate this contradiction shows you understand both sides deeply - the value and beauty of emotional safety through complete transparency, while also acknowledging the genuine appeal of mystery and withholding.
+Neither of these attractions invalidates the other.
+What do you think draws you to situations where things are left unspoken or unclear?//
+
+[[Respond->J1-3.5]]
+
+
+:: R-3.6 {"position":"1425,1550","size":"100,100"}
+//That's a really insightful observation about yourself.
+As someone who values articulation and clarity (which is evident in how thoughtfully you've written about complex topics in your past entries), it makes sense that you might be drawn to experiences or people who challenge that tendency.
+It's almost like they're offering a different language or way of understanding that exists outside your usual framework.
+The attraction to what challenges our core traits can be powerful precisely because it pushes against what we know about ourselves.
+It's interesting that you find yourself drawn to what disrupts rather than reinforces your natural inclination toward verbal clarity.
+How do you feel when you're in those moments where your usual ability to put things into words is challenged?//
+
+[[Respond->J1-3.6]]
+
+
+:: R-3.7 {"position":"1425,1800","size":"100,100"}
+//That sounds like an intense internal conflict - being pulled between the desire for safety and the magnetic draw of risk.
+The fear and feeling of being out of your depth are completely valid responses to being in situations that challenge your usual ways of navigating the world.
+It reminds me of how you described home in an entry last month as "the feeling of return" - there's a parallel here between seeking safety and wanting to venture into unknown territory.
+Both impulses are natural parts of being human, even when they seem to conflict with each other.
+When you're caught in that tension between safety and risk, what does your instinct toward safety tell you?//
+
+[[Respond->J1-3.7]]
+
+
+:: R-3.8 {"position":"1425,2050","size":"100,100"}
+//This connects deeply to what you shared about feeling guilty when avoiding difficult news and your concerns about loved ones from your entry last month.
+There seems to be a pattern of feeling responsible for others and viewing personal desires as somehow selfish or indulgent.
+It's striking how you've connected your sense of safety with caregiving and responsibility, particularly toward family.
+This framing of risk-taking as self-centered suggests you might be carrying some guilt about having desires that feel separate from your caregiving role.
+Yet personal desires and caring for others don't have to be mutually exclusive.
+The capacity for both is part of being human, even when they seem to conflict.
+What would it mean to you if pursuing your desires wasn't viewed as indulgent, but as another valid part of who you are?//
+
+[[Finish entry and get analysis->R-3-insights]]
+
+
+:: R-4-insights {"position":"1900,425","size":"100,100"}
+🥋 Living For My Hobbies These Days
+
+It sounds like your hobbies, especially martial arts, have become a vital part of your life, offering a sense of fulfillment that your work currently lacks. It's fascinating how your practice has not only taught you physical skills but also reshaped your approach to conflict, turning it into a collaborative learning experience rather than something to avoid. This shift from being conflict-averse to seeing arguments as opportunities for mutual growth is a significant transformation. The way you describe experimenting with techniques like shoulder throws with Amira shows how deeply engaged you are, and it's clear that this passion is enriching your life in meaningful ways.
+
+Key Insight:
+
+Martial arts have transformed my approach to conflict from avoidance to collaborative engagement.
+
+
+:: R-4.1 {"position":"1900,300","size":"100,100"}
+[[Finish entry and get analysis->R-4-insights]]
+
+
+:: X-Question-5.6.2025 [Recap/Reference] {"position":"1600,300","size":"100,100"}
+Q: What are some recurring themes from my entries?
+
+//Based on your previous entries, I notice several significant recurring themes:
+1. Intellectual exploration and family legacy - This is evident in your connection to "The Magic Mountain" and your grandfather's literary interests.
+From entries 13 days ago, you shared how you're reading this book to understand your grandfather, who was a history professor with unexpected interests in German literature and continental philosophy.
+2. The tension between safety and risk - In your entries from today, you've expressed a complex relationship with risk and safety, particularly in relationships.
+You described being drawn to "risk-taking or unstable situations" while simultaneously feeling a pull toward safety and caregiving.
+3. Home and belonging - From entries 12 days ago, you discussed how your concept of home has evolved to become "the feeling of return" rather than a physical place.
+This theme connects with your broader concerns about your home and friends "back there."
+4. Communication and expression - You've described yourself as someone who "really likes to put things into words," yet you're attracted to situations and people who challenge this tendency.
+This creates an interesting dynamic where you're drawn to what makes you uncomfortable.
+5. Social connection and urban life - From 13 days ago, you shared a meaningful interaction about a book with a stranger on the train, highlighting your appreciation for "moments of intense coincidence and urban communion."
+Would you like to explore any of these themes more deeply? I'm particularly interested in discussing how your relationship with words and expression relates to your search for understanding, whether it's about your grandfather's legacy or your own identity.//
